@@ -1,4 +1,4 @@
-I"u7
+I"Š8
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -21,7 +21,7 @@
                     <div class="wrapthumbnail">
                         <a href="/katy-trail-trip-2020-trip-report">
                             
-                            <img class="featured-box-img-cover" src="/" />
+                            <img class="featured-box-img-cover" src="/Portals/18/Content/2020/KatyTrail2020/KatyTrail2020_600.jpg" />
                             
                         </a>
                     </div>
@@ -359,6 +359,12 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="/katy-trail-trip-2020-trip-report">
+                
+
+                    
+                        <img class="img-fluid" src="/Portals/18/Content/2020/KatyTrail2020/KatyTrail2020_600.jpg" alt="Katy Trail Trip 2020 Trip Report" /> 
+                    
+
                 
             </a>
         </div>
