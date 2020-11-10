@@ -1,12 +1,12 @@
 # Site
 name: "BicycleTips.com"
-title: "BicycleTips.com"
-description: "Bicycling for all of us."
+title: "BicycleTips.com Tips, Tricks, Product and Ride Reviews"
+description: "A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'bicycletips'
 mailchimp-list: 'https://christoc.us2.list-manage.com/subscribe/post?u=4064deb6c582d54ce9b18feae&amp;id=0f8e89ce40'
 include: ["_pages"]
 permalink: /:title/
