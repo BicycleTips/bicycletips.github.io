@@ -1,4 +1,4 @@
-I"™P
+I"úX
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -21,7 +21,8 @@
                     <div class="wrapthumbnail">
                         <a href="/home/2020/10/dirty-kanza-is-unbound">
                             
-                            <img class="featured-box-img-cover" src="/portals/18/Content/2020/Unbound_Vertical_RGB (1).png" />
+                                <img class="featured-box-img-cover lazyimg" src="/assets/images_out/Content/2020/Unbound_Vertical_RGB-800-23e53e08c.png" srcset="/assets/images_out/Content/2020/Unbound_Vertical_RGB-400-23e53e08c.png 400w, /assets/images_out/Content/2020/Unbound_Vertical_RGB-600-23e53e08c.png 600w, /assets/images_out/Content/2020/Unbound_Vertical_RGB-800-23e53e08c.png 800w, /assets/images_out/Content/2020/Unbound_Vertical_RGB-1000-23e53e08c.png 1000w" />
+
                             
                         </a>
                     </div>
@@ -36,7 +37,7 @@
                                 
                             </h2>
 
-                            <h4 class="card-text">Hot off the presses, Dirty Kanza is no more, long may those who are unchained live Unbound!&nbsp;&nbsp;FOR IMMEDIATE RELEASEMedia Contact: Jordan Titus | jtitus@lt.life |...</h4>
+                            <h4 class="card-text">Hot off the presses, Dirty Kanza is no more, long may those who are unchained live Unbound!&nbsp;</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
@@ -71,7 +72,8 @@
                     <div class="wrapthumbnail">
                         <a href="/home/2020/10/katy-trail-trip-2020-trip-report">
                             
-                            <img class="featured-box-img-cover" src="/portals/18/Content/2020/KatyTrail2020/KatyTrail2020_1200.jpg" />
+                                <img class="featured-box-img-cover lazyimg" src="/assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-800-69a628c0c.jpg" srcset="/assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-400-69a628c0c.jpg 400w, /assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-600-69a628c0c.jpg 600w, /assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-800-69a628c0c.jpg 800w, /assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-1000-69a628c0c.jpg 1000w" />
+
                             
                         </a>
                     </div>
@@ -125,7 +127,8 @@
                     <div class="wrapthumbnail">
                         <a href="/home/2020/04/dirty-kanza-2020-has-been-postponed-what-about-your-hotel">
                             
-                            <img class="featured-box-img-cover" src="/portals/18/Content/2020/DirtyKanzaGravel-1.jpg" />
+                                <img class="featured-box-img-cover lazyimg" src="/assets/images_out/Content/2020/DirtyKanzaGravel-1-700-900d87bbc.jpg" srcset="/assets/images_out/Content/2020/DirtyKanzaGravel-1-400-900d87bbc.jpg 400w, /assets/images_out/Content/2020/DirtyKanzaGravel-1-600-900d87bbc.jpg 600w, /assets/images_out/Content/2020/DirtyKanzaGravel-1-700-900d87bbc.jpg 700w" />
+
                             
                         </a>
                     </div>
@@ -456,10 +459,7 @@
         <div class="maxthumb">
             <a href="/home/2020/10/dirty-kanza-is-unbound">
                 
-
-                    
-                        <img class="img-fluid" src="/portals/18/Content/2020/Unbound_Vertical_RGB (1).png" alt="Dirty Kanza is Unbound" /> 
-                    
+                    <img class="img-fluid" src="/assets/images_out/Content/2020/Unbound_Vertical_RGB-800-23e53e08c.png" alt="Dirty Kanza is Unbound" srcset="/assets/images_out/Content/2020/Unbound_Vertical_RGB-400-23e53e08c.png 400w, /assets/images_out/Content/2020/Unbound_Vertical_RGB-600-23e53e08c.png 600w, /assets/images_out/Content/2020/Unbound_Vertical_RGB-800-23e53e08c.png 800w, /assets/images_out/Content/2020/Unbound_Vertical_RGB-1000-23e53e08c.png 1000w" />
 
                 
             </a>
@@ -469,7 +469,7 @@
                 <a class="text-dark" href="/home/2020/10/dirty-kanza-is-unbound">Dirty Kanza is Unbound</a>
                 
             </h2>
-            <h4 class="card-text">Hot off the presses, Dirty Kanza is no more, long may those who are unchained live Unbound!&nbsp;&nbsp;FOR IMMEDIATE RELEASEMedia Contact: Jordan Titus | jtitus@lt.life | 218.780.6161&nbsp;Life Time Reveals New Brand...</h4>
+            <h4 class="card-text">Hot off the presses, Dirty Kanza is no more, long may those who are unchained live Unbound!&nbsp;</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -494,10 +494,7 @@
         <div class="maxthumb">
             <a href="/home/2020/10/katy-trail-trip-2020-trip-report">
                 
-
-                    
-                        <img class="img-fluid" src="/portals/18/Content/2020/KatyTrail2020/KatyTrail2020_1200.jpg" alt="Katy Trail Trip 2020 Trip Report" /> 
-                    
+                    <img class="img-fluid" src="/assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-800-69a628c0c.jpg" alt="Katy Trail Trip 2020 Trip Report" srcset="/assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-400-69a628c0c.jpg 400w, /assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-600-69a628c0c.jpg 600w, /assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-800-69a628c0c.jpg 800w, /assets/images_out/Content/2020/KatyTrail2020/KatyTrail2020_1200-1000-69a628c0c.jpg 1000w" />
 
                 
             </a>
@@ -532,10 +529,7 @@
         <div class="maxthumb">
             <a href="/home/2020/09/2020-katy-trail-shakedown-ride">
                 
-
-                    
-                        <img class="img-fluid" src="/portals/18/Content/KatyShakedown-46.jpg" alt="2020 Katy Trail Shakedown Ride" /> 
-                    
+                    <img class="img-fluid" src="/assets/images_out/Content/KatyShakedown-46-800-bf7bf1962.jpg" alt="2020 Katy Trail Shakedown Ride" srcset="/assets/images_out/Content/KatyShakedown-46-400-bf7bf1962.jpg 400w, /assets/images_out/Content/KatyShakedown-46-600-bf7bf1962.jpg 600w, /assets/images_out/Content/KatyShakedown-46-800-bf7bf1962.jpg 800w, /assets/images_out/Content/KatyShakedown-46-1000-bf7bf1962.jpg 1000w" />
 
                 
             </a>
@@ -570,10 +564,7 @@
         <div class="maxthumb">
             <a href="/home/2020/04/dirty-kanza-2020-has-been-postponed-what-about-your-hotel">
                 
-
-                    
-                        <img class="img-fluid" src="/portals/18/Content/2020/DirtyKanzaGravel-1.jpg" alt="Dirty Kanza 2020 has been postponed, what about your hotel?" /> 
-                    
+                    <img class="img-fluid" src="/assets/images_out/Content/2020/DirtyKanzaGravel-1-700-900d87bbc.jpg" alt="Dirty Kanza 2020 has been postponed, what about your hotel?" srcset="/assets/images_out/Content/2020/DirtyKanzaGravel-1-400-900d87bbc.jpg 400w, /assets/images_out/Content/2020/DirtyKanzaGravel-1-600-900d87bbc.jpg 600w, /assets/images_out/Content/2020/DirtyKanzaGravel-1-700-900d87bbc.jpg 700w" />
 
                 
             </a>
@@ -608,10 +599,7 @@
         <div class="maxthumb">
             <a href="/home/2020/03/the-mid-south-2020-ride-review">
                 
-
-                    
-                        <img class="img-fluid" src="/portals/18/Content/2020/bikesontahoe.jpg" alt="The Mid South 2020 Ride Review" /> 
-                    
+                    <img class="img-fluid" src="/assets/images_out/Content/2020/bikesontahoe-400-16d2a15bf.jpg" alt="The Mid South 2020 Ride Review" srcset="/assets/images_out/Content/2020/bikesontahoe-400-16d2a15bf.jpg 400w" />
 
                 
             </a>
@@ -646,10 +634,7 @@
         <div class="maxthumb">
             <a href="/tips/2020/02/new-gear-salsa-woodchipper-carbon">
                 
-
-                    
-                        <img class="img-fluid" src="/portals/18/Content/2020/Woodchipper-2.jpg" alt="New Gear: Salsa Woodchipper Carbon" /> 
-                    
+                    <img class="img-fluid" src="/assets/images_out/Content/2020/Woodchipper-2-800-effaae532.jpg" alt="New Gear: Salsa Woodchipper Carbon" srcset="/assets/images_out/Content/2020/Woodchipper-2-400-effaae532.jpg 400w, /assets/images_out/Content/2020/Woodchipper-2-600-effaae532.jpg 600w, /assets/images_out/Content/2020/Woodchipper-2-800-effaae532.jpg 800w" />
 
                 
             </a>

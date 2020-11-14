@@ -42,15 +42,26 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll_picture_tag (1.12.0)
+      addressable (~> 2.6)
+      jekyll (< 5)
+      mime-types (~> 3)
+      mini_magick (~> 4)
+      objective_elements (~> 1.1.2)
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.2.1)
+    listen (3.3.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mime-types (3.3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2020.1104)
+    mini_magick (4.11.0)
+    objective_elements (1.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -58,7 +69,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
-    rouge (3.24.0)
+    rouge (3.25.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -70,13 +81,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll (~> 4)
   jekyll-archives
   jekyll-feed
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  kramdown
-  rouge
+  jekyll_picture_tag
 
 BUNDLED WITH
    2.1.4

@@ -4,7 +4,7 @@ title: "BicycleTips.com Tips, Tricks, Product and Ride Reviews"
 description: "A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
+baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'bicycletips'
 mailchimp-list: 'https://christoc.us2.list-manage.com/subscribe/post?u=4064deb6c582d54ce9b18feae&amp;id=0f8e89ce40'
@@ -33,11 +33,13 @@ authors:
 
 # Plugins
 plugins:
+  - jekyll_picture_tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  
     
 # Archives
 jekyll-archives:
@@ -70,3 +72,19 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+picture:
+  source: "assets/images"
+  output: "assets/images_out"
+  suppress_warnings: true
+  ignore_missing_images: false
+  presets:
+    default:
+      ppi: [1, 1.5]
+      source_medium:
+        media: "(min-width: 40em)"
+        width: "600"
+        height: "300"
+      source_default:
+        width: "300"
+
