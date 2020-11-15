@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-<div class="col-md-9 flex-first flex-md-unordered">
+<div class="col-md-9 flex-first flex-md-unordered" markdown="1">
     So you want to know about BicycleTips.com? [You should read our story](/home/2011/07/getting-a-bike-to-ride-heres-our-story).
 
     
