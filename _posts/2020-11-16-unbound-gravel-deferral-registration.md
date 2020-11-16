@@ -18,3 +18,9 @@ Have you started your training yet?
 
 -Chris
 
+
+### Update: 11/16/2020 
+
+The marketing director from LifeTime posted in a private Facebook group acknowledging that some deferrals were errantly attributed to 2022, and they will be emailing those impacted with registration information for 2021.
+
+
