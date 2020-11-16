@@ -22,4 +22,5 @@ group :jekyll_plugins do
 #    gem 'kramdown'
 #    gem 'rouge'
     gem 'jekyll_picture_tag'
+    gem 'jekyll-redirect-from'
 end
