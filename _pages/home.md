@@ -1,6 +1,6 @@
 ---
-layout: redirected
+layout: redirect
 sitemap: false
-permalink: /home
+permalink: /home/
 redirect_to:  /
 ---
