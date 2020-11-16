@@ -21,7 +21,7 @@ var documents = [{
     "body": "Here you will find a list of events that BicycleTips. com thinks you might be interested in! This is not a comprehensive list of all events across the country, or even events in the Mid West, but it does contain events that we think our readers, and our writers, will likely want to take part in. We’ve tried to create a list of the big events, and calendar entries for the various deadlines for those events, to make it helpful to try to get yourselves registered for events that might sell out. Google Calendar Direct Link Want to get something on the list? Drop us a line "
     }, {
     "id": 4,
-    "url": "/home",
+    "url": "/home/",
     "title": "",
     "body": ""
     }, {
