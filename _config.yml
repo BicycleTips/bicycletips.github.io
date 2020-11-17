@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  Chris:
+  chris:
     name: Chris Hammond
     display_name: Chris Hammond
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: bff097b7cc348bebce39ee1c7694d125
     email: bicycletips@christoc.com
     web: https://chrishammond.com
     twitter: https://twitter.com/christoc
-    description: "Founder of BicycleTips.com. Read more at ChrisHammond.com" 
+    description: "Founder of BicycleTips.com, an avid computer geek, photographer, and amateur bicycle rider" 
 
 #  john:
 #    name: John
