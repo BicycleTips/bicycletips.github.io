@@ -12,3 +12,7 @@ We are always open to reviewing new products here on BicycleTips.com. If you hav
 
 # Ride Reviews
 We post ride reviews from organized, and unorganized rides we partake in. If an organization would like to see their rides highlighted here on BicycleTips.com, please reach out using the form here on this page.
+
+
+# Privacy and Comment Policy
+We encourage everyone to participate on our website. We will remove things we deem to be hateful and detrimental, you've been warned. 
