@@ -289,6 +289,10 @@
 <lastmod>2020-11-16T09:31:57+00:00</lastmod>
 </url>
 <url>
+<loc>/the-mid-south-2021</loc>
+<lastmod>2020-11-16T09:31:57+00:00</lastmod>
+</url>
+<url>
 <loc>/about</loc>
 </url>
 <url>
@@ -364,6 +368,9 @@
 <loc>/category/unbound-gravel/</loc>
 </url>
 <url>
+<loc>/category/the-mid-south/</loc>
+</url>
+<url>
 <loc>/page2/</loc>
 </url>
 <url>
@@ -395,5 +402,8 @@
 </url>
 <url>
 <loc>/page12/</loc>
+</url>
+<url>
+<loc>/page13/</loc>
 </url>
 </urlset>
