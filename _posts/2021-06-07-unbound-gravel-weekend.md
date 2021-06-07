@@ -35,7 +35,7 @@ While in Alma I got to spend some time walking around with my camera, getting so
 
 After our volunteer time in Alma, Wags and I were starving, so we grabbed lunch at the local mexican joint before heading back towards Emporia. We were exhausted, and initially planned to head back to the hotel and rest of before heading back into the fun of the finish area, but on the way down we checked the results and saw the the leaders from the 200 were just getting through Council Grove, this caused us to divert west over to Americus so that we could sit on the side of the road and get some photos and cheer people along.
 
-{% picture  Content/2021/Unbound2021/BoswellAndTenDam.jpg --alt "Ian Boswell and Laurens ten Dam at Unbound Gravel 200" %} 
+{% picture  Content/2021/Unbound2021/BoswellandTenDam.jpg --alt "Ian Boswell and Laurens ten Dam at Unbound Gravel 200" %} 
 {% picture  Content/2021/Unbound2021/TedKing.jpg --alt "Ted King Unbound Gravel 200" %} 
 
 We got to see the top 5 200 mile riders pass by, and a number of 100 mile riders before we headed back into town. Later that evening we went back out to the finish area, I really wanted to try to get a selfie with Alison Tetrick to go with the one I got with her in 2019. 
