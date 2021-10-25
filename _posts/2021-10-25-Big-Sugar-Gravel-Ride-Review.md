@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 2021 Unbound Gravel Weekend Review
+title: The 2021 Big and Little Sugar Gravel Ride Review
 date: '2021-10-25T13:00:00+00:00'
 permalink: "/big-sugar-gravel-2021"
 image: Content/2021/BigSugarGravel/BigSugarGravel-8.jpg
