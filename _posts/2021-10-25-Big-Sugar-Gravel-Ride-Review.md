@@ -3,7 +3,7 @@ layout: post
 title: The 2021 Unbound Gravel Weekend Review
 date: '2021-10-25T13:00:00+00:00'
 permalink: "/big-sugar-gravel-2021"
-image: Content/2021/BigSugarGravel-1.jpg
+image: Content/2021/BigSugarGravel/BigSugarGravel-8.jpg
 categories: [ Industry, Gravel, Big Sugar Gravel, LifeTime ]
 featured: true
 author: chris
@@ -14,13 +14,19 @@ First and foremost, to the family of Tommy Oneal, I am so sorry for your loss. C
 
 For the rest of the weekend and ride review: 
 
+{% picture Content/2021/BigSugarGravel/Pre-BigSugarGravel-1.jpg %}
+
 Monday morning I texted my buddy Wagner to tell him I was out, I would not be going to Bentonville for Big Sugar Gravel. I had spent a few days fighting a sinus infection (I am vaccinated and tested negative for covid, though I was pretty sure before the test that it was a usual for me sinus thing). I had only been on my bike once in October, and was simply not ready to try to ride 100 miles in North West Arkansas and South West Missouri.
 
 He let me stew on the message I sent him for a bit then suggested we could still do the 50 mile ride, the Little Sugar. By early afternoon that simple reply from him had flipped my mindset. We went out for a ride that afternoon and I was back in the game, though with an adjusted plan to ride 50 miles and still be back home in St. Louis Saturday night so I could go to my daughter's gymnastics competition on Sunday.
 
 Friday morning we left St. Louis County arriving in Bentonville shortly after 1pm. We went to the 8th Street Market to figure out where Outerbike was, and to grab some lunch before registration was supposed to open. At registration we were easily able to switch our entries from Big Sugar to Little Sugar, and I got a thank you from Treva for letting them know about a bridge that was out on the 100 mile route.
 
-Side Note: So this trip was not my first to Bentonville, I had actually been down there for the first time one week prior, meeting with a potential customer about a software project. On my drive back, last Friday the 15th, I decided to cruise along some of the gravel roads to see what we were in for. I wasn't more than a mile off the highway when I came across a closed road, which I knew from looking at the Ride With GPS map was part of the route for Big Sugar. I drove down the closed road (don't try this at home kids) and came across a crew working feverishly on a bridge. Before I got home on Friday I reached out to the LifeTime crew to ask if they knew about the bridge. They reached out on Monday and made sure to get out and check it out. In their defense, they had recently covered the course, but the bridge was damaged sometime after that scouting run.
+{% picture Content/2021/BigSugarGravel/Pre-BigSugarGravel-2.jpg %}
+
+*Side Note:* So this trip was not my first to Bentonville, I had actually been down there for the first time one week prior, meeting with a potential customer about a software project. On my drive back, last Friday the 15th, I decided to cruise along some of the gravel roads to see what we were in for. I wasn't more than a mile off the highway when I came across a closed road, which I knew from looking at the Ride With GPS map was part of the route for Big Sugar. I drove down the closed road (don't try this at home kids) and came across a crew working feverishly on a bridge. Before I got home on Friday I reached out to the LifeTime crew to ask if they knew about the bridge. They reached out on Monday and made sure to get out and check it out. In their defense, they had recently covered the course, but the bridge was damaged sometime after that scouting run.
+
+{% picture Content/2021/BigSugarGravel/Pre-BigSugarGravel-4.jpg %}
 
 From there we walked around Outerbike. I must admit, the Dirty Kanza/Unbound Gravel expo puts all other expos at events to shame. I was kind of expecting outerbike to compete, but it simply wasn't that type of thing. It was most definitely there for the MTB crew, and while the Gravel folks were accepted, the focus was on mountain bikes and demos, primarily. That being said, we picked up a number of swag items, including waffles from both Untapped and Honeystinger.
 
@@ -30,13 +36,23 @@ Another local, Adelmann, from St. Louis showed up at the expo, so we organized a
 
 We stopped at the Phat Bike shop and eached picked up a t-shirt, while I picked up some new cleats for my shoes thinking that my old ones were wearing out (they weren't, the new ones felt just as loose as the old ones).
 
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-1.jpg %}
+
 Saturday morning we checked out of the hotel and headed up to find a parking spot. We ended up parking near the Square in Bentonville, which worked out fricken amazingly. There was a public bathroom right there, and we were 1 block from the finish line so that after the ride we could easily get the bikes back on the rack and we could change clothes. We had hoped to make it to the start line for the 7am Big Sugar start, to see Adelmann off, but ended up not making it down there until closer to 720am.
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-6.jpg %}
 
 The start was at the Momentary, which to be honest, is a cool looking building, but I have no idea what it actually is, the assumption is it is some sort of art space. (Runs off to google: The Momentary brings together contemporary visual, performing, and culinary arts into a welcoming, communal space in Northwest Arkansas.)
 
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-7.jpg %}
+
 The Little Sugar ride went off right as scheduled at 8am with a lead out of town, we were back far enough that we couldn't see the lead, but I believe it was local police doing the work on that. Before too long we were on Gravel and off into the beautiful country known as North West Arkansas (and southwest Missouri). 
 
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-8.jpg %}
+
 There was a threat of rain, but that didn't materialize. We did get a pretty scary looking storm at the rest stop, to the north of there it was dark and the wind started blowing pretty good for a bit, but for use on the Little Sugar course we remained dry with only a couple of seconds of spitting drops here or there.
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-9.jpg %}
 
 The course itself was amazing, hilly but the hills were not TOO much. I did get off and walk on a couple of those hills however. I was able to hop back on and finish the climbs each time I did though. We made it to the the aid station at Whistling Springs Brewery without any noticeable trouble, though neither Wags nor I drank enough fluids in that first 2 hours on the ride. I chugged a bottle of Scratch that I had to try to force fluids in me and then grabbed some water at the brewery to fill both bottles back up. 
 
@@ -52,9 +68,19 @@ I immedatiately jumped off my bike, called 911 and began trying to figure out wh
 
 Wags and I stayed on the scene for about 45 minutes, before heading back out on the road. On the way out the ambulance was coming in, we were glad to see that.
 
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-10.jpg %}
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-11.jpg %}
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-12.jpg %}
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-13.jpg %}
+
 The rest of the ride kind of blurs together, at one point Wagner and I were talking about how we hadn't had any of the 100 mile competitors pass us since the accident (maybe 15 came through while we were there, a BIG thank you to those who slowed down, to those of you who didn't, a couple of the top 3 men's riders, show some decency next time). We began to wonder if the organizers had closed the course at the Brewery for weather or something. 
 
 It wasn't until shortly after this conversation that we started to get riders coming by us from the 100, we found out later talking to a gentleman who finished in the 20th spot that they had actually shut the course down where the ambulance arrived on the scene. 
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-14.jpg %}
 
 Once the trickle started as 100 mile riders were passing us, the flood came. Mostly we were passed by the top men, but a number of women passed by as well, including Amity Rockwell. A big shout out to all the riders who passed us slower guys with words of encouragement, it was much appreciated each and every time someone said something. 
 
