@@ -40,19 +40,19 @@ We stopped at the Phat Bike shop and eached picked up a t-shirt, while I picked 
 
 Saturday morning we checked out of the hotel and headed up to find a parking spot. We ended up parking near the Square in Bentonville, which worked out fricken amazingly. There was a public bathroom right there, and we were 1 block from the finish line so that after the ride we could easily get the bikes back on the rack and we could change clothes. We had hoped to make it to the start line for the 7am Big Sugar start, to see Adelmann off, but ended up not making it down there until closer to 720am.
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-6.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-6.jpg --alt The Momentary %}
 
 The start was at the Momentary, which to be honest, is a cool looking building, but I have no idea what it actually is, the assumption is it is some sort of art space. (Runs off to google: The Momentary brings together contemporary visual, performing, and culinary arts into a welcoming, communal space in Northwest Arkansas.)
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-7.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-7.jpg --alt Little Sugar Start%}
 
 The Little Sugar ride went off right as scheduled at 8am with a lead out of town, we were back far enough that we couldn't see the lead, but I believe it was local police doing the work on that. Before too long we were on Gravel and off into the beautiful country known as North West Arkansas (and southwest Missouri). 
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-8.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-8.jpg --alt Little Sugar Gravel right before I dropped my gopro %}
 
 There was a threat of rain, but that didn't materialize. We did get a pretty scary looking storm at the rest stop, to the north of there it was dark and the wind started blowing pretty good for a bit, but for use on the Little Sugar course we remained dry with only a couple of seconds of spitting drops here or there.
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-9.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-9.jpg --alt Whistling Springs Brewery %}
 
 The course itself was amazing, hilly but the hills were not TOO much. I did get off and walk on a couple of those hills however. I was able to hop back on and finish the climbs each time I did though. We made it to the the aid station at Whistling Springs Brewery without any noticeable trouble, though neither Wags nor I drank enough fluids in that first 2 hours on the ride. I chugged a bottle of Scratch that I had to try to force fluids in me and then grabbed some water at the brewery to fill both bottles back up. 
 
@@ -68,19 +68,19 @@ I immedatiately jumped off my bike, called 911 and began trying to figure out wh
 
 Wags and I stayed on the scene for about 45 minutes, before heading back out on the road. On the way out the ambulance was coming in, we were glad to see that.
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-10.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-10.jpg --alt Dennis Van Winden %}
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-11.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-11.jpg --alt Luke Hall %}
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-12.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-12.jpg --alt Colin Strickland %}
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-13.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-13.jpg --alt Peter Stetina %}
 
 The rest of the ride kind of blurs together, at one point Wags and I were talking about how we hadn't had any of the 100 mile competitors pass us since the accident (maybe 15 came through while we were there, a BIG thank you to those who slowed down, to those of you who didn't, a couple of the top 5 men's riders, show some decency next time). We began to wonder if the organizers had closed the course at the Brewery for weather or something. 
 
 It wasn't until shortly after this conversation that we started to get riders coming by us from the 100, we found out later talking to a gentleman who finished in the 21st spot that they had actually shut the course down where the ambulance arrived on the scene. 
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-14.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-14.jpg --alt Arkansas Gravel %}
 
 Once the trickle started as 100 mile riders were passing us, the flood came. Mostly we were passed by the top men, but a number of women passed by as well, including Amity Rockwell. A big shout out to all the riders who passed us slower guys with words of encouragement, it was much appreciated each and every time someone said something. 
 
@@ -94,7 +94,7 @@ We sat down and talked to a few fellow competitors, and I chatted with [Big Tall
 
 I got all sorts of comments on my jersey for the ride on Saturday. I wore my 2019 Cuban Gravel Crisis jersey. That WAS a real ride, and I gotta say, the best named gravel race in the history of gravel races. Unfortunately I hear rumors that the organizer of the ride no longer has rights to the name and is changing the name going forward, that's unfortunate (looks like they let the domain expire even, that's a shame)! 
 
-{% picture Content/2021/BigSugarGravel/BigSugarGravel-4.jpg %}
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-4.jpg --alt Cuban Gravel Crisis Jersey %}
 
 If you've not made your way to North West Arkansas yet, definitely check it out. Bentonville, you are amazing. See you soon, next time my family is coming too.
 
