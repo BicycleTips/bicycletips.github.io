@@ -60,7 +60,7 @@ The aid station was stocked with Untapped Maple products, as well as other assor
 
 Wags went inside and grabbed himself a beer, as we all had "drink" tickets that we could use there. I grabbed some snacks and looked around a bit. With the storm appearing to be moving our way, I wasn't too intersted in standing around, but I did get to see some of the beautiful property there, including a pig and dog wandering around saying hello to people.
 
-To get out of the brewery you climb up Whistling Springs road, I was chugging along the climb when I decided to stand up and put a little effort into it. This caused my rear tire to lose traction, my foot to immediately fall dow the bottom of my stroke, a quick unclip and I was hoofing it for a little while up the hill. 
+To get out of the brewery you climb up Whistling Springs road, I was chugging along the climb when I decided to stand up and put a little effort into it. This caused my rear tire to lose traction, my foot to immediately fall down to the bottom of my stroke, a quick unclip and I was hoofing it for a little while up the hill. 
 
 It was shortly after leaving the brewery that we came across a maroon Toyota Tacoma, first coming at us, then after it turned around, it passed us going back the way from which it came. Not a minute or two later and we came across the same Tacoma stopped in the middle of the road, we could see a rider down in front of the truck. 
 
@@ -76,9 +76,9 @@ Wags and I stayed on the scene for about 45 minutes, before heading back out on 
 
 {% picture Content/2021/BigSugarGravel/BigSugarGravel-13.jpg %}
 
-The rest of the ride kind of blurs together, at one point Wags and I were talking about how we hadn't had any of the 100 mile competitors pass us since the accident (maybe 15 came through while we were there, a BIG thank you to those who slowed down, to those of you who didn't, a couple of the top 3 men's riders, show some decency next time). We began to wonder if the organizers had closed the course at the Brewery for weather or something. 
+The rest of the ride kind of blurs together, at one point Wags and I were talking about how we hadn't had any of the 100 mile competitors pass us since the accident (maybe 15 came through while we were there, a BIG thank you to those who slowed down, to those of you who didn't, a couple of the top 5 men's riders, show some decency next time). We began to wonder if the organizers had closed the course at the Brewery for weather or something. 
 
-It wasn't until shortly after this conversation that we started to get riders coming by us from the 100, we found out later talking to a gentleman who finished in the 20th spot that they had actually shut the course down where the ambulance arrived on the scene. 
+It wasn't until shortly after this conversation that we started to get riders coming by us from the 100, we found out later talking to a gentleman who finished in the 21st spot that they had actually shut the course down where the ambulance arrived on the scene. 
 
 {% picture Content/2021/BigSugarGravel/BigSugarGravel-14.jpg %}
 
