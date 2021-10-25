@@ -88,7 +88,7 @@ The finish required you to climb back up into the park area around the start of 
 
 Post ride you were given a mug/mason jar of Untapped Maple syrup and a bike ole lollipop (lots of SUGAR). Wags and I headed back to the car, loaded up the bikes and changed into some street clothign to be comfortable before heading back to the finish area to grab food from a food truck with our meal tickets.
 
-We sat down and talked to a few fellow competitors, and I chatted with [Big Tall Wayne](https://instagram.com/bigtallwayne) again (Wags and I spoke to him Friday at the 8th street market). Adelmann wandered up to us after he finished and he downed a bottle of my Scratch Labs drink that I had made while at the truck. He was struggling with nutritional issues and said he was fortunate to have finished having vision concerns the last ~30 miles of his ride. He averaged 14.98mph on his ride, while Wagner and I averaged 9.94mph.
+We sat down and talked to a few fellow competitors, and I chatted with [Big Tall Wayne](https://instagram.com/bigtallwayne) again (Wags and I spoke to him Friday at the 8th street market, as well as at Unbound earlier this year). Adelmann wandered up to us after he finished and he downed a bottle of my Scratch Labs drink that I had made while at the truck. He was struggling with nutritional issues and said he was fortunate to have finished having vision concerns the last ~30 miles of his ride. He averaged 14.98mph on his ride, while Wagner and I averaged 9.94mph.
 
 [Strava Ride](https://www.strava.com/activities/6156217101)
 
