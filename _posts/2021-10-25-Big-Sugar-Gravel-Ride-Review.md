@@ -62,7 +62,7 @@ Wags went inside and grabbed himself a beer, as we all had "drink" tickets that 
 
 To get out of the brewery you climb up Whistling Springs road, I was chugging along the climb when I decided to stand up and put a little effort into it. This caused my rear tire to lose traction, my foot to immediately fall down to the bottom of my stroke, a quick unclip and I was hoofing it for a little while up the hill. 
 
-It was shortly after leaving the brewery that we came across a maroon Toyota Tacoma, first coming at us, then after it turned around, it passed us going back the way from which it came. Not a minute or two later and we came across the same Tacoma stopped in the middle of the road, we could see a rider down in front of the truck. 
+It was shortly after leaving the brewery that we came across a maroon Toyota Tacoma, first coming at us, then after it turned around, it passed us going back the way from which it came. Not a minute or two later and we came across the same Tacoma stopped in the middle of the road. He stopped because a rider had fallen on the downhill, we could see a rider down in front of the truck. 
 
 I immedatiately jumped off my bike, called 911 and began trying to figure out where we actually were so that we could get help to us. For now, for the families sake, I will leave out any additional details, if anyone from the family would like more info, please feel free to [contact me](https://www.chrishammond.com/contact). 
 
