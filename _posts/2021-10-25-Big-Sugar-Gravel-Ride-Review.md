@@ -10,7 +10,7 @@ author: chris
 ---
 Where to start on this one, it's been an interesting year, not the best to be honest with a variety of things causing turmoil this year, I question how much I want to, or should share, so we'll see what comes out in this post.
 
-First and foremost, to the family of Tommy Oneal, I am so sorry for your loss. I rode up just as people were stopping to try to assist him and immediately called 911. I was very optomistic as he was able to communicate with the folks who were tending to him. To learn via a phone call Sunday morning that he passed, I was crushed, but I can't imagine the pain that his family is and will be going through.
+First and foremost, to the family that experienced tragedy this weekend, I am so sorry for your loss. I rode up just as people were stopping to try to assist and immediately called 911. I was very optomistic as he was able to communicate with the folks who were tending to him. To learn via a phone call Sunday morning that he passed, I was crushed, but I can't imagine the pain that his family is and will be going through.
 
 For the rest of the weekend and ride review:
 
@@ -100,4 +100,4 @@ If you've not made your way to North West Arkansas yet, definitely check it out.
 
 Be sure to check out [BigSugarGravel.com](https://www.BigSugarGravel.com) for information on when registration will open for next year, you don't want to miss this event!
 
-A big thanks goes out to the event organizers, and to the folks at LifeTime for reaching out on Sunday as well. My thoughts again go out to Tommy's family. 
+A big thanks goes out to the event organizers, and to the folks at LifeTime for reaching out on Sunday as well. My thoughts again go out to the family. 
