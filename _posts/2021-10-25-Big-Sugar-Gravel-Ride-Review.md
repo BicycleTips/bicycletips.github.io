@@ -8,15 +8,15 @@ categories: [ Industry, Gravel, Big Sugar Gravel, LifeTime ]
 featured: true
 author: chris
 ---
-Where to start on this one, it's been an interesting year, not the best to be honest with a variety of things causing turmoil this year,I question how much I want to or should share, so we'll see what comes out in this post.
+Where to start on this one, it's been an interesting year, not the best to be honest with a variety of things causing turmoil this year, I question how much I want to, or should share, so we'll see what comes out in this post.
 
-First and foremost, to the family of Tommy Oneal, I am so sorry for your loss. Coming across a rider who was down was not a fun thing to experience on Saturday, but I was very optomistic as he was able to communicate with the folks who were tending to him. To learn via a phone call Sunday morning that he passed, I was crushed, but I can't imagine the pain that his family is and will be going through.
+First and foremost, to the family of Tommy Oneal, I am so sorry for your loss. I rode up just as people were stopping to try to assist him and immediately called 911. I was very optomistic as he was able to communicate with the folks who were tending to him. To learn via a phone call Sunday morning that he passed, I was crushed, but I can't imagine the pain that his family is and will be going through.
 
-For the rest of the weekend and ride review: 
+For the rest of the weekend and ride review:
 
 {% picture Content/2021/BigSugarGravel/Pre-BigSugarGravel-1.jpg %}
 
-Monday morning I texted my buddy Wagner to tell him I was out, I would not be going to Bentonville for Big Sugar Gravel. I had spent a few days fighting a sinus infection (I am vaccinated and tested negative for covid, though I was pretty sure before the test that it was a usual for me sinus thing). I had only been on my bike once in October, and was simply not ready to try to ride 100 miles in North West Arkansas and South West Missouri.
+Monday morning I texted my buddy Wagner (Wags) to tell him I was out, I would not be going to Bentonville for Big Sugar Gravel. I had spent a few days fighting a sinus infection (I am vaccinated and tested negative for covid, though I was pretty sure before the test that it was a usual for me sinus thing). I had only been on my bike once in October, and was simply not ready to try to ride 100 miles in North West Arkansas and South West Missouri.
 
 He let me stew on the message I sent him for a bit then suggested we could still do the 50 mile ride, the Little Sugar. By early afternoon that simple reply from him had flipped my mindset. We went out for a ride that afternoon and I was back in the game, though with an adjusted plan to ride 50 miles and still be back home in St. Louis Saturday night so I could go to my daughter's gymnastics competition on Sunday.
 
@@ -76,7 +76,7 @@ Wags and I stayed on the scene for about 45 minutes, before heading back out on 
 
 {% picture Content/2021/BigSugarGravel/BigSugarGravel-13.jpg %}
 
-The rest of the ride kind of blurs together, at one point Wagner and I were talking about how we hadn't had any of the 100 mile competitors pass us since the accident (maybe 15 came through while we were there, a BIG thank you to those who slowed down, to those of you who didn't, a couple of the top 3 men's riders, show some decency next time). We began to wonder if the organizers had closed the course at the Brewery for weather or something. 
+The rest of the ride kind of blurs together, at one point Wags and I were talking about how we hadn't had any of the 100 mile competitors pass us since the accident (maybe 15 came through while we were there, a BIG thank you to those who slowed down, to those of you who didn't, a couple of the top 3 men's riders, show some decency next time). We began to wonder if the organizers had closed the course at the Brewery for weather or something. 
 
 It wasn't until shortly after this conversation that we started to get riders coming by us from the 100, we found out later talking to a gentleman who finished in the 20th spot that they had actually shut the course down where the ambulance arrived on the scene. 
 
@@ -84,7 +84,7 @@ It wasn't until shortly after this conversation that we started to get riders co
 
 Once the trickle started as 100 mile riders were passing us, the flood came. Mostly we were passed by the top men, but a number of women passed by as well, including Amity Rockwell. A big shout out to all the riders who passed us slower guys with words of encouragement, it was much appreciated each and every time someone said something. 
 
-The finish required you to climb back up into the park area around the start of Slaughter Pen, you were on paved roads at this point, but was a slog for someone who wasn't in shape and ready for a 50 mile ride. Wagner waited for me and helped motivate me towards the finish as we crossed the line together, 5 hours and 21 minutes after we started, in 254th and 255th spot. I definitely had hoped to finish this ride in under 5 hours, hoping for closer to 4 hours, but with over 3k feet of elevation, and stopping for 45 minutes to assist, I am please that we still finished in 5:21.
+The finish required you to climb back up into the park area around the start of Slaughter Pen, you were on paved roads at this point, but was a slog for someone who wasn't in shape and ready for a 50 mile ride. Wags waited for me and helped motivate me towards the finish as we crossed the line together, 5 hours and 21 minutes after we started, in 254th and 255th spot. I definitely had hoped to finish this ride in under 5 hours, hoping for closer to 4 hours, but with over 3k feet of elevation, and stopping for 45 minutes to assist, I am please that we still finished in 5:21.
 
 Post ride you were given a mug/mason jar of Untapped Maple syrup and a bike ole lollipop (lots of SUGAR). Wags and I headed back to the car, loaded up the bikes and changed into some street clothign to be comfortable before heading back to the finish area to grab food from a food truck with our meal tickets.
 
@@ -93,6 +93,8 @@ We sat down and talked to a few fellow competitors, and I chatted with [Big Tall
 [Strava Ride](https://www.strava.com/activities/6156217101)
 
 I got all sorts of comments on my jersey for the ride on Saturday. I wore my 2019 Cuban Gravel Crisis jersey. That WAS a real ride, and I gotta say, the best named gravel race in the history of gravel races. Unfortunately I hear rumors that the organizer of the ride no longer has rights to the name and is changing the name going forward, that's unfortunate (looks like they let the domain expire even, that's a shame)! 
+
+{% picture Content/2021/BigSugarGravel/BigSugarGravel-4.jpg %}
 
 If you've not made your way to North West Arkansas yet, definitely check it out. Bentonville, you are amazing. See you soon, next time my family is coming too.
 
