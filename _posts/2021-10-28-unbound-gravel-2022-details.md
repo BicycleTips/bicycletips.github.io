@@ -24,3 +24,5 @@ Unbound XL (350) lottery registration opens early December (12/1-12/15), with an
 The Lottery opens for registration on January 5th through January 18th. Announcements of if you got in the lotto in early February.
 
 
+## Going South
+For the past two years ('19 and '21) the Unbound route has gone to the North, for '22 it will be back to the South side of Emporia.
