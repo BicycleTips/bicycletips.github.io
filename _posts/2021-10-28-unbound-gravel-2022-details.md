@@ -11,6 +11,9 @@ author: chris
 
 Details for Unbound Gravel 2022 are starting to be shared, I'll try to make it a point to update this post with info as it becomes available.
 
+## Event Date
+June 4th, 2022
+Emporia, Kansas
 
 ## Registration Dates:
 
