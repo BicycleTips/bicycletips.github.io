@@ -26,3 +26,6 @@ The Lottery opens for registration on January 5th through January 18th. Announce
 
 ## Going South
 For the past two years ('19 and '21) the Unbound route has gone to the North, for '22 it will be back to the South side of Emporia.
+
+## Camps are back
+They're bringing the Spring Camps back, if you've got the time and funds, they are a great option for getting into the event, as well as getting training in.
