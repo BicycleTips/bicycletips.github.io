@@ -11,8 +11,8 @@ author: chris
 
 Details for Unbound Gravel 2022 are starting to be shared, I'll try to make it a point to update this post with info as it becomes available.
 
-## Event Date
-June 4th, 2022
+## Event Date and Location
+June 4th, 2022  
 Emporia, Kansas
 
 ## Registration Dates:
@@ -31,3 +31,5 @@ For the past two years ('19 and '21) the Unbound route has gone to the North, fo
 
 ## Camps are back
 They're bringing the Spring Camps back, if you've got the time and funds, they are a great option for getting into the event, as well as getting training in.
+
+More coming soon!
