@@ -18,7 +18,10 @@ Emporia, Kansas
 ## Registration Dates:
 
 ### Deferral or Volunteer Registration
-If you deferred in 20 or 21, or you put in 10 volunteer hours, Registration for 2022 is November 1st through November 30th, expect an email from the organizers early next week with details on how/where/when to register.
+If you deferred in 20 or 21, Registration for 2022 is November 1st through November 30th, if you didn't get that email, you're missing out!
+
+### Volunteer Registration
+If you put in 10 volunteer hours, Registration for 2022 is in December, Treva did send out an email regarding usage of your volunteer hours earlier this month, be sure to follow up on that!
 
 ### XL (350) Lotto
 Unbound XL (350) lottery registration opens early December (12/1-12/15), with announcements for who is picked before the end of the year.
@@ -30,6 +33,6 @@ The Lottery opens for registration on January 5th through January 18th. Announce
 For the past two years ('19 and '21) the Unbound route has gone to the North, for '22 it will be back to the South side of Emporia.
 
 ## Camps are back
-They're bringing the Spring Camps back, if you've got the time and funds, they are a great option for getting into the event, as well as getting training in.
+They're bringing the Spring Camps back, if you've got the time and funds, they are a great option for getting into the event, as well as getting training in. Registration opens soon!
 
 More coming soon!
