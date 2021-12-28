@@ -18,13 +18,13 @@ Emporia, Kansas
 ## Registration Dates:
 
 ### Deferral or Volunteer Registration
-If you deferred in 20 or 21, Registration for 2022 is November 1st through November 30th, if you didn't get that email, you're missing out!
+If you deferred in 20 or 21, Registration for 2022 is November 1st through November 30th, if you didn't get that email, you've missed out!
 
 ### Volunteer Registration
-If you put in 10 volunteer hours, Registration for 2022 is in December, Treva did send out an email regarding usage of your volunteer hours earlier this month, be sure to follow up on that!
+If you put in 10 volunteer hours, Registration for 2022 is in December (currently open), Treva did send out an email regarding usage of your volunteer hours in November, be sure to follow up on that!
 
 ### XL (350) Lotto
-Unbound XL (350) lottery registration opens early December (12/1-12/15), with announcements for who is picked before the end of the year.
+Unbound XL (350) lottery registration opened in early December (12/1-12/15), with announcements for who is picked before the end of the year.
 
 ### 25/50/100/200 Lotto
 The Lottery opens for registration on January 5th through January 18th. Announcements of if you got in the lotto in early February.
