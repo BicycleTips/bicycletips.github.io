@@ -5,7 +5,7 @@ date: '2021-10-28T11:31:57+00:00'
 permalink: "/unbound-gravel-2022-details"
 image: Content/2021/UnboundGravel2022-1.jpg
 categories: [ Industry, Gravel, Unbound Gravel, UnboundGravel ]
-featured: true
+featured: false
 author: chris
 ---
 
