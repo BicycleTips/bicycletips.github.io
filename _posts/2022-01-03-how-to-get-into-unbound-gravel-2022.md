@@ -24,6 +24,10 @@ Basically you sign up for Unbound, you put all the information in as if you were
 
 In past years, you could also put in the name of a group that you want to ride with, and if all members of the group don't make it in, you don't get charged. This is useful if you want to ensure that you ride with friends, but means that one of you might actually get picked, and not be able to enter because the others in the group didn't get picked. 
 
+Sometime in early February they will choose who gets in, notify people, and charged the credit cards. 
+
+## Hotel Info
+If you don't have a hotel reservation already, you should get on that! Last I checked all the hotels are full, but once the lotto selection process occurs you may see some rooms open up. Also in early February the dorms should open up for reservation, that will likely be your best option if you don't have a room yet.
 
 ## 2023 Entry
 Don't get in for 2022? Start planning for 2023 right now!
