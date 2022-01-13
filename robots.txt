@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://www.bicycletips.com/sitemap.xml
