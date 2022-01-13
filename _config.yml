@@ -5,6 +5,7 @@ description: "A cycling website dedicated to bringing you the latest tips, trick
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
+url: "https://www.bicycletips.com"
 google_analytics: 'UA-69145-35'
 disqus: 'bicycletips'
 mailchimp-list: 'https://christoc.us2.list-manage.com/subscribe/post?u=4064deb6c582d54ce9b18feae&amp;id=0f8e89ce40'
