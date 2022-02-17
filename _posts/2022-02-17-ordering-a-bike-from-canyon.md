@@ -33,3 +33,15 @@ Bad news: I would have to go direct to Shimano for the warranty work for the cha
 15 days, two weeks, and I had to call Canyon, to be told that I would need to call Shimano to get support instead? Why couldn't someone at Canyon have told me that two weeks ago?
 
 So now I have a call back request in with Shimano. I called them 30 minutes ago. I'll update this post as I find out how big of an ordeal it is trying to actually get support from a direct to consumer bicycle brand.... 
+
+Update: Got a call back from Shimano today. They provided me two options to get the warranty work done.
+
+1) I can go to a local bike shop (assuming they need to sell shimano, but he didn't say that directly) and they can do the inspection and file the warranty request with Shimano.
+
+2) I can fill out a form on Shimano's website, then I can mail in the part and have them inspect it and determine if it is under warranty....
+
+So I will lean towards option 1 and hope that Trailhead will help me out on this one. 
+
+## Direct To  Consumer Bicycles, is it good for you? 
+
+I am not sure....
