@@ -3,7 +3,7 @@ layout: post
 title: Unbound Gravel 100 2022 Ride Review
 date: '2022-06-24T10:00:00+00:00'
 permalink: "/unbound-gravel-2022-ride-review"
-image: Content/2022/UnboundGravel/unboundgravel-1.jpg
+image: Content/2022/UnboundGravel/UnboundGravel2022-15.jpg
 categories: [ online, bike, gravel, unbound, LifeTime ]
 featured: true
 author: chris
@@ -12,9 +12,7 @@ Unbound Gravel 2022, was awesome...
 
 Planning for this adventure started in 2019 after I completed the 100 mile event at what was then known as Dirty Kanza. In July 2019, Wagner (Wags) and I went to Emporia for the Lunar Kanza, there I got a golden ticket, allowing me to bypass the lotto. 
 
-I signed up for 2020, covid happened. I deferred to 2021. 2021 happened. I had a worse year in 2021 than I did in 2020, found out I had a heart issue (Afib) and kidney stones, random other things. I deferred out of 2021.
-
-Wags and I went to Emporia in 2021 anyways. [It was an absolute f'n blast](https://www.bicycletips.com/unbound-gravel-2021).
+I signed up for 2020, covid happened. I deferred to 2021. 2021 happened. I had a worse year in 2021 than I did in 2020, found out I had a heart issue (Afib) and kidney stones, random other things. I deferred out of 2021. Wags and I went to Emporia in 2021 anyways. [It was an absolute f'n blast](https://www.bicycletips.com/unbound-gravel-2021).
 
 This year was going to be different, I used my 2021 deferral, Wagner used his 2021 volunteer hours, and we brought Myckel along with us as well as he had also gone and volunteered in '21. Myckel and I signed up for 200 Miles, Wagner was realistic and signed up for 100 miles. 
 
@@ -25,6 +23,8 @@ Going into the weekend, Myckel had switched to the 100 route, I knew I was going
 # Thursday
 We left St. Louis Thursday morning. The group this year was Myckel, Wagner and myself, along with Wagner's wife there to provide SAG for us misfits. Myckel picked me up, I got a few work calls in on the drive. The Wagner family left town around the same time. The drive out to Kansas was easy, St. Louis to Emporia is not a bad drive at all, ~5.5 hours I think for us with a stop along the way to grab some Chick-Fil-A outside of Kansas City.
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-1.jpg --alt Stopped at Chic-Fil-A %}
+
 We arrived and went straight to the hotel, I had two rooms booked at the Econolodge (same place as 2021) and Myckel had a room booked at the ESU dorm. He dropped me off and I got checked in, things loaded into the room, and then got the bike ready to head downtown for a shake out ride. The guy at Econolodge tried to offer us two connected rooms, with only one working bathroom, for a $10/night discount. I declined, the discount got moved to $20 a night, but still declined. If it was 4 dudes in the two rooms, perhaps, but with Wags' wife there, it didn't make sense to try to save a little dough for the inconvenience.
 
 ## Check In
@@ -34,8 +34,14 @@ The check in for Unbound is always in the same place, a beautiful three story bu
 
 After a few attempts at asking very nicely, I was able to get the lady who helped me to rip the timing chip off the plate so I could keep the one with my name on it. I was given a different plate, with no name, for the 100 route. I totally get why they wouldn't want to have extra plates out there, and extra timing chips. I was very thankful that she let me keep mine.
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-2.jpg --alt Unbound Gravel Sign Selfie %}
+
 ## Expo
 After check in, we headed to the Expo. I think this year there were something like 290 vendors at the expo. This expo at Unbound/DK is just amazing. The swag you can get, the gear you can buy, the people you can meet, is amazing! One thing to keep in mind with the Unbound Gravel expo is that it ends at 5pm on Friday evening, it is gone by about 5:15pm. You won't find 99% of the vendors on Saturday or Sunday, though you can find Muc-Off after the event (more later).
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-3.jpg --alt Unbound Gravel Sign Selfie with Isabel King %}
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-4.jpg --alt Unbound Gravel Sign Selfie with Big Tall Wayne and Wags %}
 
 ## Shake out ride
 After the shake out ride we headed back to the car to get ready for a group ride. Group rides are a plenty at Unbound. Thursday afternoon's ride was our first, but not the first of the weekend, and not our last. We met at the Major Taylor booth in the Expo and headed out with a couple hundred people for a 13-14 mile ride south east of Emporia. 
@@ -43,6 +49,8 @@ After the shake out ride we headed back to the car to get ready for a group ride
 The ride was tame, not a race, not very well organized. A couple of times the lead group didn't know where to make a turn and would have to turn around to catch a turn they missed. I had the route on my computer, so I knew where I was going. 
 
 The ride was good, nothing too technical, not too fast, not too slow. [Nelson Vails](https://nelsonvails.com/) was the guest for the ride, he spoke before the ride, and then was friendly and chatting it up with various folks on the ride. I passed him at one point because he was slowing down on his cell phone, of course I chose the muddiest section of the ride and coated my Canyon in mud. 
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-5.jpg --alt Unbound Gravel Sign Selfie with Nelson Vails and Wags %}
 
 Post ride we put the bikes back on the rack and walked around town a bit to find a place for dinner. We ended up at the Mexican place right on Commercial, putting our names on the list and then wandering a bit more. The restaurant was packed with gravel riders and crew. We had a good meal, though service was slow, it was packed as previously stated, so I am completely fine with the slowness. I spent a bit of time talking with a guy from Smithville, MO. He was in town just for the group rides and the expo. He told me his first gravel ride was about an hour earlier when he joined a different group ride. He mentioned that he helped with the [Humphrey's Gravel Grinder](https://www.bikereg.com/humphrey-100-gravel-grinder) put on in Smithville, which happened a few weeks earlier. I may have to try to put that one on the calendar next year. 
 
@@ -52,13 +60,21 @@ Friday morning started with a 730am wake up. I haven't slept well in hotels in y
 ## Shake out ride
 After a few donuts and juice we headed back to the car to get the bikes ready. A quick check over, change into our riding gear, and we were back at the Expo lining up for the ride. If there were a few hundred at the Thursday evening ride, it felt like there were a thousand for this one (likely 500, but maybe more). Once again I had the ride loaded up in my Garmin, so when we took off, and the entire group took a turn that wasn't on the route in my computer, we went off on our own. Exactly one block later we were back with the group as they simply took an extra turn VS the route we went. 
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-7.jpg --alt Friday Morning Shake Out Ride Selfie %}
+
 The ride was uneventful, but once again beautiful. Post ride we loaded the bikes back up on the car and ventured into the Expo again. Grabbing swag, and a few selfies along the way. I went to the Canyon booth and had them [swap out a chain ring on my bike that I've had bend 3 times since I received the bike back in December](https://www.bicycletips.com/ordering-a-bike-from-canyon). The tech there was super helpful and had it swapped out in a few minutes. I am still waiting on Shimano to send the replacement ring, fortunately my brother sent me one earlier in May. I tried to stop by the Orange Seal booth to get my sealant topped off, but was told I would need to come back because it was too busy. I stopped at the Polar Bottle booth and had a great conversation with those guys. I got a bottle or two, along with a t-shirt, for posting a dirty bike on social media. Little did they know that the next day they would have plenty of dirty bikes to post.
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-9.jpg --alt Canyon Support %}
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-10.jpg --alt Canyon Truck %}
 
 Around 1230 we headed over to the Granada Theater to catch a presentation from Nelson Vails. I'll be blunt, it was an odd presentation. He talked about his pro riding after his olympic medal, mostly time spent in Japan I believe. Why was it odd? I am not even sure, the way he talked about himself I guess. I was hoping to hear more of his life story, I honestly had never heard of him prior to Friday, so I was hoping to learn more. Instead we got an overview of how racing in Japan in the 90s worked. It sounded like Horse racing, but guys on bikes instead. 
 
 ## Expo
 
 After that we spent another couple of hours in the Expo grabbing more swag for the kids (right?). A guy that I know from work (Matt) arrived that afternoon and joined us. His hotel was closed even though you could make bookings online, so he bunked up in my room as I had two beds. 
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-12.jpg --alt Expo Selfie with Alison Tetrick %}
 
 We made a stop at the local Wal Mart to get a couple of supplies, primarily breakfast for Saturday morning. I think I grabbed a couple of donuts, and some pop-tarts, a super healthy setup for sure. I also picked up a gallon of water, being not 100% sure what the water situation would be like at the checkpoint. 
 
@@ -67,25 +83,45 @@ Friday evening was spent with a quick meal, a local food truck that has a buildi
 # Saturday
 Saturday morning started early. I think I had my alarm set for 4:40am, possibly a little earlier. My daily wake up shower followed by getting into the bike kit for the day, lathering up with Chamois Buttr. I scarfed down the donuts at the hotel and a Starbucks Frappuccino as we got into town. We wanted to try to get over and catch the start of the 200 mile ride. I ran up towards the front and watched those riders take off. The 200 ride was delayed by about 5 minutes as there was a train crossing the road not too far from the starting line.
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-15.jpg --alt Unbound Gravel 200 Start Line %}
+
 After that it was time to start getting ourselves ready. We headed back to the car, got the bikes off the rack, took any extra layers of clothing off. Final prep on the bikes, ensuring that we had all the appropriate gear, helmets, glasses, gloves, water bottles, food, etc.
 
 From there we made a quick stop at the local church. I knew from 2019 that the church offered up breakfast, and even more importantly, bathrooms! Indoor bathrooms even, always a plus!
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-17.jpg --alt Unbound Gravel 100 10 Hour Group %}
+
 From the restroom we headed up into the starting shute. I went towards the 10 hour finishers section, knowing that I wasn't planning on finishing much faster than that. My time in 2019 was 11.5 hours I think, with a 1 hour break at the aid station. This year I was hoping to minimize the time spent on my stop, and also just overall ride faster, knowing that the weather was looking cooler than the prior 2 years I've been in Emporia. 
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-16.jpg --alt Unbound Gravel 100 Starting Selfie %}
 
 The ride started out slowly, as one does with over a thousand people starting out. We headed south out of town with a police escort, after a couple of miles we hit gravel, then things got REALLY slow. I guess some people went down in the first corner on gravel, my assumption is that slowed things down to start. We ended up getting slowly mainly by a mud puddle pinch point. Basically a section of gravel road that was wet on both sides, but there was a dry route through it, but it ultimately choked things down as everyone was trying to stay dry and mud free (heh, more on that later).
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-18.jpg --alt Choke point for the first mud %}
+
 Shortly after this, I was riding solo. Wagner and Myckel were off, I figured that would be the case, I just didn't figure I would be solo before 10 miles. Oh well, I was going to go my pace and make sure I finished. 
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-19.jpg --alt Solo riding %}
 
 The weather for the first 40 miles, was simply amazing. While it did spit rain here and there, it was not enough to collect anywhere, or even make the road wet. I tried to make myself drink fluids ever 5 miles to ensure I stayed hydrated. It was cool, some might even say chilly (not me), so I was trying to be diligent about drinking my Scratch Labs mix. I started out with a frozen water bladder, so I couldn't drink a lot at once as I was waiting for it to melt.
 
 The first shot of fluid I got was shocking, apparently I hadn't mixed the Scratch in very well before freezing, so I got a super rich burst of flavor. I immediately though that if I had a full bag of that much flavor there was no way I was going to be able to drink it, it was far too strong. Thankfully as the rest of the ice pack melted it watered things down.
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-22.jpg --alt A Llama %}
+
 Those first 40 miles, the route itself was absolutely beautiful. We went though a section they called the Cattle Pens, I feel like some of this was private land, not public roads. We crossed over the highway a couple of times, we saw a big life sized Lama (cutout) and people cheering us on. There was also a printed sign about Nickelback, I don't remember exactly what it said, but I was highly offended by it, as with anything Nickelback related.
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-23.jpg --alt A curious cow %}
+
+At one point I had two riders in front of me that I was coming up on. Off to the right was a lone cow that was making its way over towards the gravel road, and more importantly, making its way to us. Based on what I had seen from a ride earlier this year, where a bull charged and hit multiple riders I had no intention of being someone hit by a cow. I did however pull my camera out and take some photos as I started speaking with the cow, saying something along the lines of "Hey buddy, how are you? Good buddy, good buddy, stay over there". I passed the cow without incident, and then noticed that both the riders I was coming up on, had put themselves to my left, placing me directly between themselves and the cow. Thanks guys.
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-26.jpg --alt Neutral water stop %}
 
 Around mile 41 or so, we came across the neutral water stop. This was an area where everyone could reload on water, but not via the help of your support crews. I stopped here and filled up my now empty water bladder, had a couple of snacks, and then got back on the route. Shortly after the stop was a Y, where you could go right for the 200 mile route, and left for the 100 mile route.
 
-Shortly after the water stop, the skies opened up. It rained pretty darn good for the next 30 minutes. I think at one point I heard thunder, and at another point I had a rider ask me if I heard thunder (at that point all I heard was wind).
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-25.jpg --alt Rain %}
+
+Shortly after the water stop, the skies opened up. It rained pretty darn good for the next 30 minutes. I think at one point I heard thunder, and at another point I had a rider ask me if I heard thunder (at that point all I heard was wind). The more it rained, the less photos I took.
 
 I felt like the surface conditions of the route, at least one the 100 mile route I did, were actually far more tame than those conditions I remember on the northern route from 2019. I don't recall any really rocky areas, maybe they were there but perhaps masked by water later in the ride. 
 
@@ -109,9 +145,17 @@ After taking the spill I decided I would walk. People were walking up the left s
 
 As soon as I started to try to scale down, I slipped and flailed my arms, managing to scratch my left arm down one of the barbs on the fence. I checked it out, fortunately it was just a scratch, but it was a good for to five inches, and immediately started to bleed. 
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-27.jpg --alt Bloody arm %}
+
 I walked my way through the muddy section, occasionally stopping to scrape some of the peanut butter off the bike, though I found the most effective way to do that was simply to pick the bike up and slam it back down.
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-28.jpg --alt Muddy Grizl %}
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-29.jpg --alt Muddy Grizl %}
+
 Just after the muddy section was a water crossing that was probably 5 to 6 inches deep. I took this opportunity to wash the bike off, laying it down in the creek to try to help clear off a majority of the mud. I was just about to consider laying down in the water myself when I look back and see the 200 mile leaders racing through the mud right towards the group of us washing off in the creek.
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-30.jpg --alt 200 Mile Leaders coming through %}
 
 We all cleared out of the way as they made their way through, never stopping or getting off the bike through the mud section as far as I could tell. Four or five of the leaders came through then Peter Stetina came by, he stopped and washed his hands in the creek before continuing on with the race.
 
@@ -121,11 +165,17 @@ Still heading up the climb a short time later, I heard a voice behind me. It was
 
 After stopping and talking with the family who was passing out water at the end of their driveway, I headed for the final ~12 miles of the ride. I was feeling pretty good, definitely getting tired, but not bad by any means. Normally on long rides between miles 85 and 95, I get pretty beat down and just want to be done, but on this ride I never got into that lull. It was definitely warming up, and I was ready to be done, but I was happy. 
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-31.jpg --alt More 200 Mile riders coming through %}
+
 As I came under the highway and started into the final hill I was ready to be done and ready to get the last hill out of the way. There was a KOM (King of the mountain) challenge on the hill, I knew I wasn't going to be competing for that. I figured maybe I was in for a PR, but looking at the Strava data, it was my slowest climb up that hill (4th attempt), oh well.
 
 A quick jaunt through campus and you are back on Commercial street heading towards the finish. This is where I sprinted, best I could, towards the finish line. In 2019 I finished with Steve at the same time, for 2022 I was on my own, so I took off as hard as I could. I finished this segment 7 seconds faster than I had in 2019. 
 
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-33.jpg --alt Unbound Gravel 100 Finisher Selfie %}
+
 Post ride I grabbed my finisher's bag and immediately got in line for the Muc-Off bike wash. The line was enormous, and I ended up waiting in it for well over an hour. Totally worth the clean bike, but it was pretty darn warm standing there. I saw Wags and Myckel in line, they finished about 45 minutes ahead of me, and were about 45 minutes ahead of me in the wash line as well. 
+
+{% picture Content/2022/UnboundGravel/UnboundGravel2022-34.jpg --alt Muc-Off line %}
 
 Matt brought me a nice cold Coke, at my request, while I waited in line. Writing this more than two weeks after Unbound, I question if I should have just requested he bring me a water. More on why later. He had done the 50 mile route and spent most of that 50 miles in the rain as well. Though he finished early enough that he had already been back to the hotel, showered and cleaned up. 
 
