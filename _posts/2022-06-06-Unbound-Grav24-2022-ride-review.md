@@ -39,7 +39,11 @@ After a few attempts at asking very nicely, I was able to get the lady who helpe
 ## Expo
 After check in, we headed to the Expo. I think this year there were something like 290 vendors at the expo. This expo at Unbound/DK is just amazing. The swag you can get, the gear you can buy, the people you can meet, is absolutely one of the best parts of the weekend! One thing to keep in mind with the Unbound Gravel expo is that it ends at 5pm on Friday evening, it is gone by about 5:15pm. You won't find 99% of the vendors on Saturday or Sunday, though you can find Muc-Off after the event (more later).
 
+I saw Isabel King taking a selfie with someone, so I went up and asked if I could have one too. She's easy to spot as she is almost always in bright orange, I dig that look.
+
 {% picture Content/2022/UnboundGravel/UnboundGravel2022-3.jpg --alt Unbound Gravel Sign Selfie with Isabel King %}
+
+Wags and I also make it a point to get a selfie with Big Tall Wayne, Stetina's mechanic. He's a great guy, and always up for a chat whenever we see him.
 
 {% picture Content/2022/UnboundGravel/UnboundGravel2022-4.jpg --alt Unbound Gravel Sign Selfie with Big Tall Wayne and Wags %}
 
@@ -73,6 +77,8 @@ Around 1230 we headed over to the Granada Theater to catch a presentation from N
 ## Expo
 
 After that we spent another couple of hours in the Expo grabbing more swag for the kids (right?). A guy that I know from work (Matt) arrived that afternoon and joined us. His hotel was closed even though you could make bookings online, so he bunked up in my room as I had two beds. 
+
+The prior two years while in Emporia I was able to get a selfie with Alison Tetrick, so this year I wanted to make sure and try to make it three times. I was able to get a photo with her in the Expo this year, as opposed to at the finish afterwards. I figured I would get one on Friday, knowing I might not be around the finish line much on Saturday.
 
 {% picture Content/2022/UnboundGravel/UnboundGravel2022-12.jpg --alt Expo Selfie with Alison Tetrick %}
 
