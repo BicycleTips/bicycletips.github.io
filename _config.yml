@@ -91,4 +91,4 @@ picture:
         width: "300"
 
 exclude:
-  - /assets/images/content*
+  - /assets/images/content/*
