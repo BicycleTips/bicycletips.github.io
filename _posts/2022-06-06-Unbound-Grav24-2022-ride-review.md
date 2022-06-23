@@ -3,7 +3,7 @@ layout: post
 title: Unbound Gravel 100 2022 Ride Review
 date: '2022-06-22T12:00:00+00:00'
 permalink: "/unbound-gravel-2022-ride-review"
-image: Content/2022/UnboundGravel/UnboundGravel2022-15.jpg
+image: {{ picture direct Content/2022/UnboundGravel/UnboundGravel2022-15.jpg }}
 categories: [ Bike, Gravel, Unbound, LifeTime, Mud, Ride Review ]
 featured: true
 author: chris

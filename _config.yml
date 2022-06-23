@@ -90,5 +90,5 @@ picture:
       source_default:
         width: "300"
 
-exclude:
+# exclude:
 #  - /assets/images/content*
