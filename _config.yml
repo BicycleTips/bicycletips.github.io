@@ -17,7 +17,7 @@ authors:
   chris:
     name: Chris Hammond
     display_name: Chris Hammond
-    gravatar: bff097b7cc348bebce39ee1c7694d125
+    gravatar: bicycletips@christoc.com
     email: bicycletips@christoc.com
     web: https://chrishammond.com
     twitter: https://twitter.com/christoc
@@ -90,5 +90,5 @@ picture:
       source_default:
         width: "300"
 
-# exclude:
-#  - /assets/images/content*
+exclude:
+  - /assets/images/content*
