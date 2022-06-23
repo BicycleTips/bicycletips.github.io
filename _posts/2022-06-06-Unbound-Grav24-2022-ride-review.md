@@ -211,4 +211,6 @@ A big thank you to LaDonna Wagner for providing SAG support for us boys out ther
 
 To the event organizers, thank you for a great event! I had a blast, and look forward to doing at least one more (never say never after that).
 
+# Strava Ride
+<div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='7255972732'></div><script src='https://strava-embeds.com/embed.js'></script>
 
