@@ -5,7 +5,7 @@ date: '2022-02-17T10:00:00+00:00'
 permalink: "/ordering-a-bike-from-canyon"
 image: Content/2022/CanyonSupport/GrizlSunset-1.jpg
 categories: [ Online, Bike, Gravel ]
-featured: true
+featured: false
 author: chris
 ---
 For the past few years I've had dreams of buying a new bicycle. I went back and forth on what to get, where to get it, etc. Last year when Canyon announced the Grizl, I knew what I was going to buy.
