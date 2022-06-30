@@ -10,7 +10,7 @@ author: chris
 ---
 So you're thinking you might want to go to Unbound Gravel 2023? The lottery won't open up until January 2023, but if you haven't booked a hotel already, you're out of luck.
 
-Emporia's hotels book up really quickly. If you haven't booked already, you are likely out of luck, but if you follow some of the tips below, we'll try to help you find a place tos tay that doesn't take you an hour plus of driving each way (Topeka).
+Emporia's hotels book up really quickly. If you haven't booked already, you are likely out of luck, but if you follow some of the tips below, we'll try to help you find a place to stay that doesn't take you an hour plus of driving each way (Topeka).
 
 (6/30/2022) I was able to book a room at a hotel this morning, so there are still some available.
 
