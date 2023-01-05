@@ -2,6 +2,8 @@
 layout: post
 title: Ordering a bike from Canyon
 date: '2022-02-17T10:00:00+00:00'
+description: ""
+keywords: "canyon, gravel, grizl"
 permalink: "/ordering-a-bike-from-canyon"
 image: Content/2022/CanyonSupport/GrizlSunset-1.jpg
 categories: [ Online, Bike, Gravel ]

@@ -2,6 +2,8 @@
 layout: post
 title: Finding a place to stay at Unbound Gravel
 date: '2022-06-30T09:00:00+00:00'
+description: "Tips on how to find a location to stay when you go to Unbound Gravel"
+keywords: "unbound, gravel, unbound gravel, lodging, kansas, emporia"
 permalink: "/unbound-gravel-hotels"
 image: Content/2022/UnboundGravel/UnboundGravel2022-13.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime ]
