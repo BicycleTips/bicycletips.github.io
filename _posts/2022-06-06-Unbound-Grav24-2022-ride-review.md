@@ -7,7 +7,7 @@ keywords: "unbound, gravel, unbound gravel, lodging, kansas, emporia"
 permalink: "/unbound-gravel-2022-ride-review"
 image: Content/2022/UnboundGravel/UnboundGravel2022-15.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime, Mud, Ride Review ]
-featured: true
+featured: false
 author: chris
 ---
 Unbound Gravel 2022, was awesome... 
