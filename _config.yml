@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 url: "https://www.bicycletips.com"
-google_analytics: 'UA-69145-35'
+google_analytics: 'G-Z1EFSG7HWL'
 disqus: 'bicycletips'
 mailchimp-list: 'https://mailchi.mp/22d2b6b35a2b/bicycletipscom-newsletter'
 include: ["_pages"]
