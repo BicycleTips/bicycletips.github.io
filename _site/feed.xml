@@ -5,9 +5,100 @@
     <description>A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jan 2023 09:08:37 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2023 09:08:37 -0600</lastBuildDate>
-    <generator>Jekyll v4.3.1</generator>
+    <pubDate>Thu, 23 Feb 2023 23:52:14 -0600</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2023 23:52:14 -0600</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Bicycle Maintenance Tips and Instructions</title>
+        <description>&lt;p&gt;Bike Maintenance Instructions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cleaning:
+    &lt;ul&gt;
+      &lt;li&gt;Regular cleaning is an essential part of bike maintenance. Before performing any maintenance, you should start by cleaning the bike frame, chain, gears, and other parts.&lt;/li&gt;
+      &lt;li&gt;To clean the bike, you’ll need a degreaser and a soft cloth. Apply the degreaser to the areas that need cleaning, such as the chain, gears, and frame, and scrub gently with the cloth.&lt;/li&gt;
+      &lt;li&gt;This will help remove grime and dirt that can build up over time. Once you’ve finished cleaning, rinse the bike with water to remove any leftover degreaser.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lubrication:
+    &lt;ul&gt;
+      &lt;li&gt;After cleaning, you should lubricate the chain and gears.&lt;/li&gt;
+      &lt;li&gt;A good lubricant will help protect the metal parts from rust and corrosion, and it will also make the bike run more smoothly.&lt;/li&gt;
+      &lt;li&gt;Apply a few drops of lubricant to the chain, and then use a clean cloth to spread it evenly. Be sure to lubricate the gears as well, especially those that are exposed to the elements.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tires:
+    &lt;ul&gt;
+      &lt;li&gt;Check the tires for proper pressure and inspect them for damage or wear.&lt;/li&gt;
+      &lt;li&gt;If you’re using a road bike, you should aim for a pressure of around 100-130 psi, while mountain bikes typically require a lower pressure of around 30-50 psi.&lt;/li&gt;
+      &lt;li&gt;If the pressure is too low, use a pump to fill the tires to the correct level.&lt;/li&gt;
+      &lt;li&gt;Check the tires for cuts, punctures, or other signs of damage, and replace the tire if necessary.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brakes:
+    &lt;ul&gt;
+      &lt;li&gt;Check the brake pads for wear and adjust if needed.&lt;/li&gt;
+      &lt;li&gt;If the brake pads are worn down to the metal, they will need to be replaced.&lt;/li&gt;
+      &lt;li&gt;Check the brake cables as well, and make sure they are tightened properly.&lt;/li&gt;
+      &lt;li&gt;If the brakes are not functioning properly, you may need to take the bike to a professional mechanic for a more in-depth inspection.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Drivetrain:
+    &lt;ul&gt;
+      &lt;li&gt;Check the tightness of the bolts on the crank arm, pedals, and bottom bracket, and tighten any that are loose.&lt;/li&gt;
+      &lt;li&gt;Check the gears to make sure they are shifting smoothly.&lt;/li&gt;
+      &lt;li&gt;If the gears are not shifting properly, you may need to adjust the derailleur.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Steering:
+    &lt;ul&gt;
+      &lt;li&gt;Check the tightness of the stem bolts, headset, and handlebar, and tighten any that are loose.&lt;/li&gt;
+      &lt;li&gt;Make sure the handlebars are positioned correctly, and that the bike is easy to steer.&lt;/li&gt;
+      &lt;li&gt;If the steering feels loose or wobbly, you may need to take the bike to a professional mechanic for further inspection.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Suspension:
+    &lt;ul&gt;
+      &lt;li&gt;If your bike has suspension, it’s important to check it regularly to make sure it’s functioning properly.&lt;/li&gt;
+      &lt;li&gt;Check for proper suspension function and adjust accordingly.&lt;/li&gt;
+      &lt;li&gt;If the suspension feels stiff or bouncy, you may need to make some adjustments.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wheel true:
+    &lt;ul&gt;
+      &lt;li&gt;Ensure that the wheels spin straight and true.&lt;/li&gt;
+      &lt;li&gt;If the wheels are not true, you may need to make some adjustments to keep the bike riding smoothly.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Chain wear:
+    &lt;ul&gt;
+      &lt;li&gt;Over time, the chain will start to wear down and stretch.&lt;/li&gt;
+      &lt;li&gt;To check for chain wear, use a chain wear indicator tool.&lt;/li&gt;
+      &lt;li&gt;If the chain is worn, it will need to be replaced to avoid damage to the gears.&lt;/li&gt;
+      &lt;li&gt;A worn chain will cause shifting problems, so it’s important to replace it promptly.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Final Inspection:
+    &lt;ul&gt;
+      &lt;li&gt;After performing all the above checks and maintenance, give the bike a final inspection.&lt;/li&gt;
+      &lt;li&gt;Test ride the bike to ensure it is running smoothly and everything is functioning properly.&lt;/li&gt;
+      &lt;li&gt;Check the brakes, gears, and steering, and make any necessary adjustments.&lt;/li&gt;
+      &lt;li&gt;If anything seems out of place, take the bike back to a professional mechanic for further inspection.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Regular maintenance is important to keep your bike running smoothly and to extend its lifespan. If you are unsure about performing any of these maintenance tasks, take the bike to a professional mechanic for assistance.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jan 2023 03:00:00 -0600</pubDate>
+        <link>http://localhost:4000/bicyce-maintenance</link>
+        <guid isPermaLink="true">http://localhost:4000/bicyce-maintenance</guid>
+        
+        
+        <category>Bike</category>
+        
+      </item>
     
       <item>
         <title>Getting into Unbound Gravel 2023</title>
@@ -720,42 +811,6 @@ Emporia, Kansas&lt;/p&gt;
         <category>Unbound Gravel</category>
         
         <category>UnboundGravel</category>
-        
-      </item>
-    
-      <item>
-        <title>The Mid South 2021 the incredibly socially distanced</title>
-        <description>&lt;p&gt;So what’d you do this past weekend? Did you ride The Mid South? They shifted things up this year, went to a virtual “incredibly socially distant” version of the event.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Everyone is getting 50% of their reg fee refunded starting today. It might take a few days to deposit so be patient!&lt;br /&gt;
-We are physically mailing out your Mid South swag bag with t-shirt, water bottle, and more to your front door! It will be there before event weekend.&lt;br /&gt;
-If you’re signed up for the race YOU’RE IN. All you will need to do moving forward is join the Ride With GPS challenge page and upload your ride/run. You must ride/run and record your activity on one of the dates between March 12-14. &lt;br /&gt;
-Our partner bike shops are creating 50k, 50mi, 100mi routes in their areas for many of you to be able to ride/run. Sponsors will be sending swag to each of these shops for you to win on a first come, first serve basis after you’ve completed their specific Mid South partner route.&lt;br /&gt;
-If you don’t live in one of the partner shop areas you can upload your own course/activity from your backyard to the Ride With GPS challenge page. You will not be able to win swag from the bike shops BUT you will be entered to win from a list of GRAND prizes. We will be drawing names from the complete list of all participants that uploaded their ride/run from the event weekend on Monday March 15th. Prizes include a Salsa Stormchaser, 5 free entries to Mid South 2022, free bike shipping to and from Mid South 2022 AND a free entry to thtruee race courtesy of Bike Flights, and our biggest prize of all the “Eternal Entry.” It lasts forever. More details soon.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I had intentions of training and riding locally here in St. Louis for this, but 2021 got in the way. First, I had motivation issues starting out the year. I think I’ve been on the trainer once in 2021. Then in February I apparently started experiencing Atrial Fibrillation. My heart rate has been f’d up since the morning of 2/19. I went to bed late, around 1am, and according to my Garmin Fenix my heart rate has been f’d up ever since.&lt;/p&gt;
-
-&lt;p&gt;I’ve got an appointment for a procedure tomorrow that will hopefully reset my heart rhythm that will hopefully get me back to normal and get me out on the bike again.&lt;/p&gt;
-
-&lt;p&gt;The Mid South 2022 will be March 11th and 12th, 2022. Registration for that will open in October.&lt;/p&gt;
-
-&lt;p&gt;They had a Facebook Live stream today after the weekend and awarded some prizes. The coolest being the Eternal Entry. Basically a free liftime entry to The Mid South. There’s a catch though. It has to be used every year or it goes away. It CAN be passed on though.&lt;/p&gt;
-
-&lt;p&gt;It’ll be cool to see that get tracked, will the same person use it every year? Will someone different get to use it every year?&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 15 Mar 2021 05:31:57 -0500</pubDate>
-        <link>http://localhost:4000/the-mid-south-2021</link>
-        <guid isPermaLink="true">http://localhost:4000/the-mid-south-2021</guid>
-        
-        
-        <category>Industry</category>
-        
-        <category>Gravel</category>
-        
-        <category>The Mid South</category>
         
       </item>
     
