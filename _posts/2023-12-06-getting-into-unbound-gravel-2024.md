@@ -24,6 +24,17 @@ Due to overwhelming demand, a random selection process determines participants f
 ## Life Time Members Early Access
 Life Time members, with a minimum of six months' membership, get early access to event registrations and guaranteed spots in lotteries.
 
+> The LT early access doesn't open until a week prior to the lottery.  
+> #Gravel XL – May 31, 2024#  
+> Member Guaranteed Registration: November 24, 2023  
+> General Lottery: December 1-15, 2023  
+> Member registration opens at 10 AM MST on 11/24/23  
+
+> #UNBOUND Gravel 200/100 –June 1, 2024#  
+> Member Guaranteed Registration: December 29, 2023  
+> General Lottery: Jan 5-20, 2024  
+> Member registration opens at 10 AM MST on 12/29/23  
+
 ## Notification and Fees
 Selected participants will be notified by email. Event fees, processing fees, and taxes will be charged upon selection. Entry fees for various distances are yet to be determined.
 
