@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unbound Gravel 2024: Your Guide to Registration Options"
-date: '2024-12-06T10:00:00+00:00'
+date: '2023-12-06T10:00:00+00:00'
 description: "Tips on how to get into Unbound Gravel for 2024"
 keywords: "unbound, gravel, unbound gravel, lodging, kansas, emporia, lotto, entry"
 permalink: "/unbound-gravel-2024-lotto"
