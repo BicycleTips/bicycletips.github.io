@@ -4,11 +4,13 @@ title: Bicycle Maintenance Tips and Instructions
 date: '2023-01-30T09:00:00+00:00'
 description: "Tips for how to maintain your bicycle"
 keywords: "bicycle, tips"
-permalink: "/bicyce-maintenance"
+permalink: "/bicycle-maintenance"
 image: Content/2023/Maintenance/Maintenance-1.jpg
-categories: [ Bike ]
+categories: [ Bike, Maintenance, Tips ]
 featured: true
 author: chris
+redirect_from:
+    - "/bicyce-maintenance"
 ---
 Bike Maintenance Instructions:
 

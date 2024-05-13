@@ -15,6 +15,8 @@ permalink: /:title/
 facebook:
   app_id: 236378443058488
 
+templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">jekyllexample.com</a>.'
+
 # Authors
 authors:
   chris:
@@ -24,7 +26,7 @@ authors:
     email: bicycletips@christoc.com
     web: https://www.chrishammond.com
     twitter: https://twitter.com/christoc
-    description: "Founder of BicycleTips.com, an avid computer geek, photographer, and amateur bicycle rider" 
+    description: "Founder of BicycleTips.com, an avid computer geek, photographer, and amateur bicycle rider. Read more about <a href=\"https://www.chrishammond.com\">Chris Hammond</a>." 
 
 # Plugins
 plugins:
@@ -32,9 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-  
+  - jekyll-archives 
     
 # Archives
 jekyll-archives:
@@ -86,4 +86,11 @@ picture:
 exclude:
   - /assets/images/Content/*
 
+
+defaults:
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "chris"
 

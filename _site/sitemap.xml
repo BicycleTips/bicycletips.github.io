@@ -329,7 +329,7 @@
 <lastmod>2023-01-04T18:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/bicyce-maintenance</loc>
+<loc>http://localhost:4000/bicycle-maintenance</loc>
 <lastmod>2023-01-30T03:00:00-06:00</lastmod>
 </url>
 <url>
@@ -344,7 +344,7 @@
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
-<loc>http://localhost:4000/categories</loc>
+<loc>http://localhost:4000/category</loc>
 </url>
 <url>
 <loc>http://localhost:4000/event-calendar</loc>
