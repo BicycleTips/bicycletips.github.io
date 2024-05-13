@@ -5,8 +5,8 @@
     <description>A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling.</description>
     <link>https://www.bicycletips.com/</link>
     <atom:link href="https://www.bicycletips.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 May 2024 05:06:58 +0000</pubDate>
-    <lastBuildDate>Mon, 13 May 2024 05:06:58 +0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2024 05:17:14 +0000</pubDate>
+    <lastBuildDate>Mon, 13 May 2024 05:17:14 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -197,11 +197,15 @@ Member registration opens at 10 AM MST on 12/29/23&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Regular maintenance is important to keep your bike running smoothly and to extend its lifespan. If you are unsure about performing any of these maintenance tasks, take the bike to a professional mechanic for assistance.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Jan 2023 09:00:00 +0000</pubDate>
-        <link>https://www.bicycletips.com/bicyce-maintenance</link>
-        <guid isPermaLink="true">https://www.bicycletips.com/bicyce-maintenance</guid>
+        <link>https://www.bicycletips.com/bicycle-maintenance</link>
+        <guid isPermaLink="true">https://www.bicycletips.com/bicycle-maintenance</guid>
         
         
         <category>Bike</category>
+        
+        <category>Maintenance</category>
+        
+        <category>Tips</category>
         
       </item>
     

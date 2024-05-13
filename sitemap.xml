@@ -329,7 +329,7 @@
 <lastmod>2023-01-05T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://www.bicycletips.com/bicyce-maintenance</loc>
+<loc>https://www.bicycletips.com/bicycle-maintenance</loc>
 <lastmod>2023-01-30T09:00:00+00:00</lastmod>
 </url>
 <url>
@@ -344,7 +344,7 @@
 <loc>https://www.bicycletips.com/about</loc>
 </url>
 <url>
-<loc>https://www.bicycletips.com/categories</loc>
+<loc>https://www.bicycletips.com/category</loc>
 </url>
 <url>
 <loc>https://www.bicycletips.com/event-calendar</loc>
@@ -447,6 +447,9 @@
 </url>
 <url>
 <loc>https://www.bicycletips.com/category/ride-review/</loc>
+</url>
+<url>
+<loc>https://www.bicycletips.com/category/maintenance/</loc>
 </url>
 <url>
 <loc>https://www.bicycletips.com/category/2023/</loc>
