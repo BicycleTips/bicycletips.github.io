@@ -17,6 +17,7 @@ We post ride reviews from organized, and unorganized rides we partake in. If an 
 We encourage everyone to participate on our website. We will remove things we deem to be hateful and detrimental, you've been warned. 
 
 ## Other Sites
-Check out some of our other sites!
-[Chris Hammond](https://www.chrishammond.com/)
-[AutocrossBlog.com](https://www.autocrossblog.com)
+Check out some of our other sites!  
+- [Chris Hammond](https://www.chrishammond.com/)  
+- [AutocrossBlog.com](https://www.autocrossblog.com)  
+
