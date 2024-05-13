@@ -3,6 +3,7 @@ layout: post
 title: Planning your weekend rides? Taking video with you?
 date: '2011-07-09T02:37:18+00:00'
 last_modified_at: '2024-05-13T08:05:00+00:00'
+
 permalink: "/planning-your-weekend-rides-taking-video-with-you"
 
 categories: [ Electronics, Fitness, Equipment  ]
