@@ -449,6 +449,9 @@
 <loc>http://localhost:4000/category/ride-review/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/maintenance/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/category/2023/</loc>
 </url>
 <url>

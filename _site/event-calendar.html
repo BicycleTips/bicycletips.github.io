@@ -97,8 +97,8 @@
 </style>
 
 
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+<form role="search" class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
@@ -136,13 +136,19 @@
 <!-- Content
 ================================================== -->
 <main class="main-content">
-    <section>
-    <div class="section-title">
-        <h2><span>BicycleTips.com event-calendar</span></h2>
-    </div>
-
-    <div class="article-post">
-    <p>Here you will find a list of events that BicycleTips.com thinks you might be interested in! This is not a comprehensive list of all events across the country, or even events in the Mid West, but it does contain events that we think our readers, and our writers, will likely want to take part in.</p>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-2 flex-first flex-md-unordered"></div>
+        <div class="col-md-8 flex-first flex-md-unordered">
+            
+                <div class="mainheading">
+                    <div class="section-title">
+                        <h1><span>BicycleTips.com event-calendar</span></h1>
+                    </div>
+                </div>
+                <div class="article-post">
+                    <section>
+                        <p>Here you will find a list of events that BicycleTips.com thinks you might be interested in! This is not a comprehensive list of all events across the country, or even events in the Mid West, but it does contain events that we think our readers, and our writers, will likely want to take part in.</p>
 
 <p>We’ve tried to create a list of the big events, and calendar entries for the various deadlines for those events, to make it helpful to try to get yourselves registered for events that might sell out. <a href="https://calendar.google.com/calendar?cid=NzA3YTBvcDE1bnIwc3Q3amhqNWJza3FrZDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar Direct Link</a></p>
 
@@ -151,10 +157,13 @@
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23616161&amp;ctz=America%2FChicago&amp;src=NzA3YTBvcDE1bnIwc3Q3amhqNWJza3FrZDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;showPrint=0" style="width:100%;min-height:500px;">
 </iframe>
 
+                    </section>
+                </div>            
+        </div>    
+        <div class="col-md-2 flex-first flex-md-unordered"></div>
     </div>
+</div>
 
-    
-</section>
 </main>
 
 
@@ -229,6 +238,8 @@
                 
                     <a class="mt-1 mb-1" href="/category/lifetime">LifeTime (5)</a>
                 
+                    <a class="mt-1 mb-1" href="/category/maintenance">Maintenance (1)</a>
+                
                     <a class="mt-1 mb-1" href="/category/missouri">Missouri (10)</a>
                 
                     <a class="mt-1 mb-1" href="/category/mud">Mud (1)</a>
@@ -243,7 +254,7 @@
                 
                     <a class="mt-1 mb-1" href="/category/the-mid-south">The Mid South (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/tips">Tips (20)</a>
+                    <a class="mt-1 mb-1" href="/category/tips">Tips (21)</a>
                 
                     <a class="mt-1 mb-1" href="/category/travel">Travel (25)</a>
                 

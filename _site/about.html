@@ -97,8 +97,8 @@
 </style>
 
 
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+<form role="search" class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
@@ -136,13 +136,19 @@
 <!-- Content
 ================================================== -->
 <main class="main-content">
-    <section>
-    <div class="section-title">
-        <h2><span>About BicycleTips.com</span></h2>
-    </div>
-
-    <div class="article-post">
-    <p>So you want to know about BicycleTips.com? <a href="/home/2011/07/getting-a-bike-to-ride-heres-our-story">You should read our story</a>.</p>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-2 flex-first flex-md-unordered"></div>
+        <div class="col-md-8 flex-first flex-md-unordered">
+            
+                <div class="mainheading">
+                    <div class="section-title">
+                        <h1><span>About BicycleTips.com</span></h1>
+                    </div>
+                </div>
+                <div class="article-post">
+                    <section>
+                        <p>So you want to know about BicycleTips.com? <a href="/home/2011/07/getting-a-bike-to-ride-heres-our-story">You should read our story</a>.</p>
 
 <h2 id="product-reviews">Product Reviews</h2>
 <p>We are always open to reviewing new products here on BicycleTips.com. If you have a product you would like us to review, please reach out using the form on this page. If a product is provided for review, we will be clear about who provided the product as to not cause confusion for our readers.</p>
@@ -161,10 +167,13 @@
 </ul>
 
 
+                    </section>
+                </div>            
+        </div>    
+        <div class="col-md-2 flex-first flex-md-unordered"></div>
     </div>
+</div>
 
-    
-</section>
 </main>
 
 
@@ -239,6 +248,8 @@
                 
                     <a class="mt-1 mb-1" href="/category/lifetime">LifeTime (5)</a>
                 
+                    <a class="mt-1 mb-1" href="/category/maintenance">Maintenance (1)</a>
+                
                     <a class="mt-1 mb-1" href="/category/missouri">Missouri (10)</a>
                 
                     <a class="mt-1 mb-1" href="/category/mud">Mud (1)</a>
@@ -253,7 +264,7 @@
                 
                     <a class="mt-1 mb-1" href="/category/the-mid-south">The Mid South (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/tips">Tips (20)</a>
+                    <a class="mt-1 mb-1" href="/category/tips">Tips (21)</a>
                 
                     <a class="mt-1 mb-1" href="/category/travel">Travel (25)</a>
                 

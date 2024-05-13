@@ -12,11 +12,18 @@ presets:
     widths: [200, 400, 800, 1600, 2000]
     fallback_width: 1600
 
-  direct200:
+  directred:
     markup: direct_url
+    formats: [original]
+    widths: [400]
+    fallback_width: 400
+
+  direct200:
+    # markup: direct_url
+    link_source: false # wrap images in a link to the original source image.
     formats: [ original] # Must be an array, and order matters.
-    widths: [200] # Must be an array.
-    size: 200
+    widths: [200, 400, 800, 1600, 2000] # Must be an array.
+    size: 400px
 
   directsrc:
     markup: naked_srcset
@@ -36,8 +43,6 @@ presets:
 
   portthumb:  
     formats: [ original]
-    widths: [200, 400]
+    widths: [200, 400, 600]
     link_source: false
-    fallback_width: 400
-
-    
+    fallback_width: 600
