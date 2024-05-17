@@ -15,7 +15,7 @@ permalink: /:title/
 facebook:
   app_id: 236378443058488
 
-templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">jekyllexample.com</a>.'
+templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://www.jekyllexample.com">jekyllexample.com</a>.'
 
 # Authors
 authors:
