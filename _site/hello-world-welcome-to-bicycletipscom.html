@@ -97,8 +97,8 @@
 </style>
 
 
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+<form role="search" class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
@@ -122,16 +122,7 @@
 
 <div class="container">
 
-<!-- Site Title
-================================================== -->
-<!--
-<div class="mainheading">
-    <h1 class="sitetitle">BicycleTips.com</h1>
-    <p class="lead">
-        A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling.
-    </p>
-</div>
--->
+
 
 <!-- Content
 ================================================== -->
@@ -196,6 +187,8 @@
                                 <span class="post-date" style="text-align:right">Posted: <time class="post-date" datetime="2011-06-26T21:30:26-05:00" itemprop="datePublished">Jun 26, 2011 21:30</time>
                                     <br/>
                                 
+                                (Updated: <time datetime="2024-05-13T03:05:00-05:00" itemprop="dateModified">May 13, 2024 08:05</time>)
+                                
                                 </span>           
                             </small>
                         </div>  
@@ -239,15 +232,21 @@
                     <!-- Toc if any -->
                     
                     <!-- End Toc -->
-                    <p>So here we go, yet another blog for me, but this time for something a little different than what I usually (<a href="http://www.project240z.com/" target="_blank">project350z.com</a>, <a href="http://www.project240z.com/" target="_blank">project240z.com</a>, <a href="http://www.dnndaily.com/" title="DotNetNuke Tips and Tricks">dnndaily.com</a>, <a href="http://www.solo2.org/">solo2.org</a>) blog about. Bicycles!</p>
+                    <p>So here we go, yet another blog for me, but this time for something a little different than what I usually (<a href="https://www.project240z.com/" target="_blank">project350z.com</a>, <a href="https://www.project240z.com/" target="_blank">project240z.com</a>, dnndaily.com (no longer around), <a href="https://www.autocrossblog.com/">solo2.org</a>)!</p>
 
-<p>Some may ask, who are you? Well, I am <a href="http://www.chrishammond.com/" target="_blank">Chris Hammond</a>, I'm a 34 year old software guy. What do I know about bikes? Well, to be honest, not much, but I figured as I go on this new journey (into the world of bicycles) I would keep a record of all the things I learn! So I picked up this domain name (along with .net and .org) last year, but am just now getting around to putting it to use.</p>
+<p>Some may ask, who are you? Well, I am <a href="https://www.chrishammond.com/">Chris Hammond</a>, I’m a 34 year old software guy. What do I know about bikes? Well, to be honest, not much, but I figured as I go on this new journey (into the world of bicycles) I would keep a record of all the things I learn! So I picked up this domain name (along with .net and .org) last year, but am just now getting around to putting it to use.</p>
 
-<p>So here we are, I've setup a Twitter account (<a href="http://twitter.com/bicycletips" target="_blank">@bicycletips</a>), this website, a quick logo, quick header image (using a simple CSS override for the <a href="http://multifunction.codeplex.com/" target="_blank">MultiFunction Free DotNetNuke Skin</a>. and now I have this first post coming together. What will hopefully be the first of many many more to come. In fact, I wrote this post first, but I really have a whole other post I wanted to write. I just felt like I couldn't write that one, until I semi-launched this site with a first post.</p><h2>What should you expect from BicycleTips.com?</h2><p>Well the goal for this website is to provide a single location for all the &ldquo;tips" I come across in my exploits learning to ride a bike. Alright, so I learned to ride a bike a LONG time ago (29 or 30 years ago), but I am just now (in the past few weeks) getting back into it. I haven't really ridden a bike since I was probably 13 or 14.</p>
+<p>So here we are, I’ve setup a Twitter account (<a href="https://twitter.com/bicycletips" target="_blank">@bicycletips</a>), this website, a quick logo, quick header image (using a simple CSS override for the MultiFunction Free DotNetNuke Skin. and now I have this first post coming together. What will hopefully be the first of many many more to come. In fact, I wrote this post first, but I really have a whole other post I wanted to write. I just felt like I couldn’t write that one, until I semi-launched this site with a first post.</p>
 
-<p>As new posts are added, and the content here becomes more in depth, you'll be able to click on the list of &ldquo;categories" or tags on the left side of the Tips page to see other posts. Right now, being the beginning of this website we don't have those categories listed just yet, but will be adding them shortly.</p>
+<h2 id="what-should-you-expect-from-bicycletipscom">What should you expect from BicycleTips.com?</h2>
 
-<p>So sit back, grab a drink, and enjoy the ride here at <a href="http://www.bicycletips.com/" target="_blank">BicycleTips.com</a></p>
+<p>Well the goal for this website is to provide a single location for all the “tips” I come across in my exploits learning to ride a bike. Alright, so I learned to ride a bike a LONG time ago (29 or 30 years ago), but I am just now (in the past few weeks) getting back into it. I haven’t really ridden a bike since I was probably 13 or 14.</p>
+
+<p>As new posts are added, and the content here becomes more in depth, you’ll be able to click on the list of “categories” or tags on the left side of the Tips page to see other posts. Right now, being the beginning of this website we don’t have those categories listed just yet, but will be adding them shortly.</p>
+
+<p>So sit back, grab a drink, and enjoy the ride here at <a href="https://www.bicycletips.com/" target="_blank">BicycleTips.com</a></p>
+
+<p>Update 5/13/2024: This site no longer runs on DotNetNuke, and hasn’t for a few years.</p>
 
                 </div>
 
@@ -377,71 +376,75 @@ https://search.google.com/structured-data/testing-tool/u/0/
                        
             
                 
-                    <a class="mt-1 mb-1" href="/category/2021">2021 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2021/">2021 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2022">2022 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2022/">2022 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2023">2023 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2023/">2023 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2024">2024 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2024/">2024 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/30-days-of-biking">30 Days of Biking (3)</a>
+                    <a class="mt-1 mb-1" href="/category/30-days-of-biking/">30 Days of Biking (3)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/bicycle-tips">Bicycle Tips (29)</a>
+                    <a class="mt-1 mb-1" href="/category/bicycle-tips/">Bicycle Tips (29)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/big-sugar-gravel">Big Sugar Gravel (6)</a>
+                    <a class="mt-1 mb-1" href="/category/big-sugar-gravel/">Big Sugar Gravel (6)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/bike">Bike (7)</a>
+                    <a class="mt-1 mb-1" href="/category/bike/">Bike (7)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/bike-packing">Bike Packing (3)</a>
+                    <a class="mt-1 mb-1" href="/category/bike-packing/">Bike Packing (3)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/camping">Camping (2)</a>
+                    <a class="mt-1 mb-1" href="/category/camping/">Camping (2)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/dirty-kanza">Dirty Kanza (17)</a>
+                    <a class="mt-1 mb-1" href="/category/dirty-kanza/">Dirty Kanza (17)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/electronics">Electronics (10)</a>
+                    <a class="mt-1 mb-1" href="/category/electronics/">Electronics (10)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/equipment">Equipment (20)</a>
+                    <a class="mt-1 mb-1" href="/category/equipment/">Equipment (20)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/fitness">Fitness (10)</a>
+                    <a class="mt-1 mb-1" href="/category/fitness/">Fitness (10)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/gravel">Gravel (35)</a>
+                    <a class="mt-1 mb-1" href="/category/gopro/">GoPro (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/industry">Industry (16)</a>
+                    <a class="mt-1 mb-1" href="/category/gravel/">Gravel (35)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/livestrong">LIVESTRONG (5)</a>
+                    <a class="mt-1 mb-1" href="/category/industry/">Industry (16)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/lscdavis">LSCDavis (5)</a>
+                    <a class="mt-1 mb-1" href="/category/livestrong/">LIVESTRONG (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/life">Life (1)</a>
+                    <a class="mt-1 mb-1" href="/category/lscdavis/">LSCDavis (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/lifetime">LifeTime (5)</a>
+                    <a class="mt-1 mb-1" href="/category/life/">Life (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/missouri">Missouri (10)</a>
+                    <a class="mt-1 mb-1" href="/category/lifetime/">LifeTime (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/mud">Mud (1)</a>
+                    <a class="mt-1 mb-1" href="/category/maintenance/">Maintenance (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/online">Online (1)</a>
+                    <a class="mt-1 mb-1" href="/category/missouri/">Missouri (10)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/ride-review">Ride Review (1)</a>
+                    <a class="mt-1 mb-1" href="/category/mud/">Mud (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/site-news">Site News (5)</a>
+                    <a class="mt-1 mb-1" href="/category/online/">Online (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/strava">Strava (11)</a>
+                    <a class="mt-1 mb-1" href="/category/ride-review/">Ride Review (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/the-mid-south">The Mid South (1)</a>
+                    <a class="mt-1 mb-1" href="/category/site-news/">Site News (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/tips">Tips (20)</a>
+                    <a class="mt-1 mb-1" href="/category/strava/">Strava (11)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/travel">Travel (25)</a>
+                    <a class="mt-1 mb-1" href="/category/the-mid-south/">The Mid South (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/trips">Trips (16)</a>
+                    <a class="mt-1 mb-1" href="/category/tips/">Tips (21)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/unbound">Unbound (4)</a>
+                    <a class="mt-1 mb-1" href="/category/travel/">Travel (25)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/unbound-gravel">Unbound Gravel (5)</a>
+                    <a class="mt-1 mb-1" href="/category/trips/">Trips (16)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/unboundgravel">UnboundGravel (3)</a>
+                    <a class="mt-1 mb-1" href="/category/unbound/">Unbound (4)</a>
+                
+                    <a class="mt-1 mb-1" href="/category/unbound-gravel/">Unbound Gravel (5)</a>
+                
+                    <a class="mt-1 mb-1" href="/category/unboundgravel/">UnboundGravel (3)</a>
                 
             
             
@@ -458,7 +461,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
                 Copyright © 2024 BicycleTips.com 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>'s <a href="https://jekyllexample.com">jekyllexample.com</a>.
+                Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>'s <a href="https://www.jekyllexample.com">jekyllexample.com</a>.
             </div>
         </div>
     </div>

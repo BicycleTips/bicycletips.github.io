@@ -97,8 +97,8 @@
 </style>
 
 
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+<form role="search" class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
@@ -122,16 +122,7 @@
 
 <div class="container">
 
-<!-- Site Title
-================================================== -->
-<!--
-<div class="mainheading">
-    <h1 class="sitetitle">BicycleTips.com</h1>
-    <p class="lead">
-        A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling.
-    </p>
-</div>
--->
+
 
 <!-- Content
 ================================================== -->
@@ -196,6 +187,8 @@
                                 <span class="post-date" style="text-align:right">Posted: <time class="post-date" datetime="2011-07-16T20:31:57-05:00" itemprop="datePublished">Jul 16, 2011 20:31</time>
                                     <br/>
                                 
+                                (Updated: <time datetime="2024-05-13T03:05:00-05:00" itemprop="dateModified">May 13, 2024 08:05</time>)
+                                
                                 </span>           
                             </small>
                         </div>  
@@ -239,25 +232,23 @@
                     <!-- Toc if any -->
                     
                     <!-- End Toc -->
-                    <p>
-    <img src="/assets/images_out/Posts/data_th-200-ce19bc4f0.jpg" alt="Bicycle Ride Data" srcset="/assets/images_out/Posts/data_th-200-ce19bc4f0.jpg 200w">
- 
-        
-    So this isn't going to be a long tip, as this topic will likely fill out future tips as well, but for now I will raise a question.</p>
+                    <p><img src="/assets/images_out/Posts/data_th-200-ce19bc4f0.jpg" alt="Bicycle Ride Data" srcset="/assets/images_out/Posts/data_th-200-ce19bc4f0.jpg 200w" /></p>
+
+<p>So this isn’t going to be a long tip, as this topic will likely fill out future tips as well, but for now I will raise a question.</p>
 
 <p>How do you track your rides?</p>
 
 <p>Or, do you track your rides?</p>
 
-<p>At this point in time I use <a href="http://connect.garmin.com/" target="_blank">Garmin Connect</a> and <a href="http://www.sportstracklive.com/" target="_blank">SportstrackLive.com</a>. Why do I use both? Well I have a Garmin <a href="http://www.amazon.com/gp/product/B000CSWCQA/ref=as_li_ss_tl?ie=UTF8&amp;tag=chrishammondc-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399349&amp;creativeASIN=B000CSWCQA" target="_blank">Forerunner 305</a> that I use, mounted to the handlebars on the bike, with a heart rate monitor and cadence monitor. It tracks things rather well, bit I figure having two sources of data can't hurt. For SportstrackLive I use my Motorola Droid, running Android 2.2.2. SportstrackLive works alright, though I haven't bothered to get any attachments for it (heart rate, or cadence).</p>
+<p>At this point in time I use Garmin Connect and SportstrackLive.com. Why do I use both? Well I have a Garmin <a href="https://amzn.to/3WDQkzl">Forerunner 305</a> that I use, mounted to the handlebars on the bike, with a heart rate monitor and cadence monitor. It tracks things rather well, bit I figure having two sources of data can’t hurt. For SportstrackLive I use my Motorola Droid, running Android 2.2.2. SportstrackLive works alright, though I haven’t bothered to get any attachments for it (heart rate, or cadence).</p>
 
-<p>I find that I like the Garmin website interface better than STL, but to be honest, both of them leave me wanting more. I feel like I should get more out of the websites. Neither of them seem to provide me anything along the lines of &ldquo;hey someone else rides the same place you do".</p>
+<p>I find that I like the Garmin website interface better than STL, but to be honest, both of them leave me wanting more. I feel like I should get more out of the websites. Neither of them seem to provide me anything along the lines of “hey someone else rides the same place you do”.</p>
 
-<p>Being that my wife and I are just getting into the bicycling thing, I wonder if riding would be more interesting (not that it isn't right now) if we rode with other people? Someone to push/pull us along?</p>
+<p>Being that my wife and I are just getting into the bicycling thing, I wonder if riding would be more interesting (not that it isn’t right now) if we rode with other people? Someone to push/pull us along?</p>
 
-<p>Watching the Tour this year, I've seen plenty of advertisements for MapMyRide, but I've yet to try the software out yet. Anyone have any experience/opinion on it?</p>
+<p>Watching the Tour this year, I’ve seen plenty of advertisements for MapMyRide, but I’ve yet to try the software out yet. Anyone have any experience/opinion on it?</p>
 
-<p>I do find that having the data drives me to ride more. I like being able to run reports on my riding to see that I've put in 161 miles since May 1st.</p>
+<p>I do find that having the data drives me to ride more. I like being able to run reports on my riding to see that I’ve put in 161 miles since May 1st.</p>
 
                 </div>
 
@@ -292,12 +283,12 @@
                         
                         
                         <li>
-                            <a class="smoothscroll btn-secondary" href="/category/electronics">Electronics</a>
+                            <a class="smoothscroll btn-secondary" href="/category/electronics/">Electronics</a>
                         </li>
                         
                         
                         <li>
-                            <a class="smoothscroll btn-secondary" href="/category/fitness">Fitness</a>
+                            <a class="smoothscroll btn-secondary" href="/category/fitness/">Fitness</a>
                         </li>
                         
                     </ul>
@@ -399,71 +390,75 @@ https://search.google.com/structured-data/testing-tool/u/0/
                        
             
                 
-                    <a class="mt-1 mb-1" href="/category/2021">2021 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2021/">2021 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2022">2022 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2022/">2022 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2023">2023 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2023/">2023 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2024">2024 (1)</a>
+                    <a class="mt-1 mb-1" href="/category/2024/">2024 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/30-days-of-biking">30 Days of Biking (3)</a>
+                    <a class="mt-1 mb-1" href="/category/30-days-of-biking/">30 Days of Biking (3)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/bicycle-tips">Bicycle Tips (29)</a>
+                    <a class="mt-1 mb-1" href="/category/bicycle-tips/">Bicycle Tips (29)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/big-sugar-gravel">Big Sugar Gravel (6)</a>
+                    <a class="mt-1 mb-1" href="/category/big-sugar-gravel/">Big Sugar Gravel (6)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/bike">Bike (7)</a>
+                    <a class="mt-1 mb-1" href="/category/bike/">Bike (7)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/bike-packing">Bike Packing (3)</a>
+                    <a class="mt-1 mb-1" href="/category/bike-packing/">Bike Packing (3)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/camping">Camping (2)</a>
+                    <a class="mt-1 mb-1" href="/category/camping/">Camping (2)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/dirty-kanza">Dirty Kanza (17)</a>
+                    <a class="mt-1 mb-1" href="/category/dirty-kanza/">Dirty Kanza (17)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/electronics">Electronics (10)</a>
+                    <a class="mt-1 mb-1" href="/category/electronics/">Electronics (10)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/equipment">Equipment (20)</a>
+                    <a class="mt-1 mb-1" href="/category/equipment/">Equipment (20)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/fitness">Fitness (10)</a>
+                    <a class="mt-1 mb-1" href="/category/fitness/">Fitness (10)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/gravel">Gravel (35)</a>
+                    <a class="mt-1 mb-1" href="/category/gopro/">GoPro (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/industry">Industry (16)</a>
+                    <a class="mt-1 mb-1" href="/category/gravel/">Gravel (35)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/livestrong">LIVESTRONG (5)</a>
+                    <a class="mt-1 mb-1" href="/category/industry/">Industry (16)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/lscdavis">LSCDavis (5)</a>
+                    <a class="mt-1 mb-1" href="/category/livestrong/">LIVESTRONG (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/life">Life (1)</a>
+                    <a class="mt-1 mb-1" href="/category/lscdavis/">LSCDavis (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/lifetime">LifeTime (5)</a>
+                    <a class="mt-1 mb-1" href="/category/life/">Life (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/missouri">Missouri (10)</a>
+                    <a class="mt-1 mb-1" href="/category/lifetime/">LifeTime (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/mud">Mud (1)</a>
+                    <a class="mt-1 mb-1" href="/category/maintenance/">Maintenance (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/online">Online (1)</a>
+                    <a class="mt-1 mb-1" href="/category/missouri/">Missouri (10)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/ride-review">Ride Review (1)</a>
+                    <a class="mt-1 mb-1" href="/category/mud/">Mud (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/site-news">Site News (5)</a>
+                    <a class="mt-1 mb-1" href="/category/online/">Online (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/strava">Strava (11)</a>
+                    <a class="mt-1 mb-1" href="/category/ride-review/">Ride Review (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/the-mid-south">The Mid South (1)</a>
+                    <a class="mt-1 mb-1" href="/category/site-news/">Site News (5)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/tips">Tips (20)</a>
+                    <a class="mt-1 mb-1" href="/category/strava/">Strava (11)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/travel">Travel (25)</a>
+                    <a class="mt-1 mb-1" href="/category/the-mid-south/">The Mid South (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/trips">Trips (16)</a>
+                    <a class="mt-1 mb-1" href="/category/tips/">Tips (21)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/unbound">Unbound (4)</a>
+                    <a class="mt-1 mb-1" href="/category/travel/">Travel (25)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/unbound-gravel">Unbound Gravel (5)</a>
+                    <a class="mt-1 mb-1" href="/category/trips/">Trips (16)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/unboundgravel">UnboundGravel (3)</a>
+                    <a class="mt-1 mb-1" href="/category/unbound/">Unbound (4)</a>
+                
+                    <a class="mt-1 mb-1" href="/category/unbound-gravel/">Unbound Gravel (5)</a>
+                
+                    <a class="mt-1 mb-1" href="/category/unboundgravel/">UnboundGravel (3)</a>
                 
             
             
@@ -480,7 +475,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
                 Copyright © 2024 BicycleTips.com 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>'s <a href="https://jekyllexample.com">jekyllexample.com</a>.
+                Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>'s <a href="https://www.jekyllexample.com">jekyllexample.com</a>.
             </div>
         </div>
     </div>
