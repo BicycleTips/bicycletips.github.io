@@ -32,7 +32,7 @@ We arrived and went straight to the hotel, I had two rooms booked at the Econolo
 ## Check In
 Once we had the room squared way, we suited up and headed downtown. The goal was to get in on a group ride with the Major Taylor Cycling Club out of KC, and also spend some time walking around the Expo, in addition, we needed to get checked in for the weekend.
 
-The check in for Unbound is always in the same place, a beautiful three story building, the [https://www.flickr.com/photos/chammond/47997788691](Lyon County History Center). We trek'd upstairs and got into our appropriate check in areas. I checked in to the 200 route, while Wags checked into 100. I then immediately got into the "change" line. There I was easily able to switch from the 200 mile route to the 100 mile route. But I was told I had to turn in my 200 mile number plate and timing chip.
+The check in for Unbound is always in the same place, a beautiful three story building, the [Lyon County History Center](https://www.flickr.com/photos/chammond/47997788691)). We trek'd upstairs and got into our appropriate check in areas. I checked in to the 200 route, while Wags checked into 100. I then immediately got into the "change" line. There I was easily able to switch from the 200 mile route to the 100 mile route. But I was told I had to turn in my 200 mile number plate and timing chip.
 
 After a few attempts at asking very nicely, I was able to get the lady who helped me to rip the timing chip off the plate so I could keep the one with my name on it. I was given a different plate, with no name, for the 100 route. I totally get why they wouldn't want to have extra plates out there, and extra timing chips. I was very thankful that she let me keep mine.
 
