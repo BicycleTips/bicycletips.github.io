@@ -2,7 +2,8 @@
 layout: categories
 title: Categories
 permalink: /category
-redirect_from:
-    - /categories
 
+redirect_from:
+    - /tags
+    - /tags/
 ---
