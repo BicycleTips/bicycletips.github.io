@@ -2,9 +2,10 @@
 layout: post
 title: Tips for Registering for Dirty Kanza
 date: '2019-12-10T16:38:26+00:00'
+last_modified_at: '2024-05-28T08:10:43+00:00'
 permalink: "/tips-for-registering-for-dirty-kanza"
 image: Content/Dk2020/DKRiderSignin.jpg
-categories: [ Bicycle Tips, Industry, Tips, Gravel, Dirty Kanza  ]
+categories: [ Bicycle Tips, Industry, Tips, Gravel, Dirty Kanza, Unbound Gravel  ]
 redirect_from: 
   - "/tips/2019/12/tips-for-registering-for-dirty-kanza"
   - "/home/2019/12/tips-for-registering-for-dirty-kanza"
