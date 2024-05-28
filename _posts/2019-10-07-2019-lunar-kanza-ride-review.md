@@ -52,4 +52,12 @@ The ride the rest of the way was uneventful. It was definitely dark now, and the
 
 We were on the lookout for the ruts in the road that had taken down the guy on the way north, but somehow we never came across them. I'm still not sure how that is possible, we were heading back down the same road we went out on, but we never could find it. We rode into town, down Mechanics Street and into the finish area. The band was just finishing up, and starting to tear things down, so we headed to our car to ditch the bikes and some of our gear before we headed over to trade my balloons/token in, and get some food. We ended up at the prize table and I was told I needed my number off my bike to claim my prize, but I was told that my prize was GOLDEN TICKET!
 
-What does golden ticket get you? Why, it gets you a bypass of the Lottery for the Dirty Kanza
+What does golden ticket get you? Why, it gets you a bypass of the Lottery for the Dirty Kanza 2020! I was stoked to say the least. I wanted to quickly get back to get my number to make sure I didn't miss out on this! I rushed back to the car and back to the prize table to get my ticket. The lady tried to take my backpack from me, at which point I told her that wasn't the token, the backpack was mine, so she let me keep the balloons (minus the one she popped).
+
+![Lunar Kanza 2019](https://live.staticflickr.com/65535/48846963287_e1606d0383_z.jpg)
+
+From there Wagner and I grabbed some food, and a drink. We sat down to eat and my balloons started popping on the ground. We didn't stick around too long, with the band having torn down, we ate and decided we would simply get back to the hotel and get some sleep so we could drive home at a decent hour the next day.
+
+The ride back to St. Louis was uneventful, except for stopping in Columbia, Missouri, where Wagner introduced me to Shakespeare's Pizza. It was excellent, and I even stopped there a week later with my kids when we went through Columbia to visit family on the other side of Missouri.
+
+If you haven't done the Dirty Kanza, or even if you have, be sure to check out Lunar Kanza assuming they do it again next year. I'll be out there if I can, July 20th, 2020!
