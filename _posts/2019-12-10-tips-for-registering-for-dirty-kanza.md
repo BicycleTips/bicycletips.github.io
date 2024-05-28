@@ -12,7 +12,7 @@ author: chris
 ---
 If you're reading this, you might be interested in trying to get a spot in the Dirty Kanza for 2020. If so, you've come to the right place to get some info to try to better your chances for getting in, or worsen them, nothing is guaranteed, so don't hold it against us if you don't make it! For all the official registration information, visit the DK Registration page, but for tips, read below.
 
-{% picture  Content/Dk2020/DKJeep.jpg --alt "Dirty Kanza Gravel Jeep" %}
+{% picture  Content/Dk2020/DKJeep.jpg --alt Dirty Kanza Gravel Jeep %}
 
 In 2019 there were around three thousand people entered into DK, over the various distances. We believe through the Lotto process, only 50% of the people who entered the lotto got selected, so they likely had six thousand entries. With the continued explosion of the gravel scene, they will see more than that 6k number this year, with little increase in the amount of riders that they can select (guessing it will stay near 3k).
 
