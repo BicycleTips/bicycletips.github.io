@@ -10,3 +10,5 @@ categories: [ Bike, Gravel, '2023', '2024' ]
 featured: true
 author: chris
 ---
+I won't be at Unbound Gravel this year (I've been on the bike all of 2 times since December 31st) but I am getting the itch to be in Emporia Kansas this week, it's Unbound time!
+
