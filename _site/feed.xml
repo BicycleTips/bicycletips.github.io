@@ -5,15 +5,43 @@
     <description>A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 May 2024 08:57:29 -0500</pubDate>
-    <lastBuildDate>Tue, 28 May 2024 08:57:29 -0500</lastBuildDate>
+    <pubDate>Tue, 28 May 2024 10:16:18 -0500</pubDate>
+    <lastBuildDate>Tue, 28 May 2024 10:16:18 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>What to look for at Unbound Gravel 2024</title>
-        <description>
+        <description>&lt;p&gt;I won’t be at Unbound Gravel this year (I’ve been on the bike all of 2 times since December 31st) but I am getting the itch to be in Emporia Kansas this week, it’s Unbound time!&lt;/p&gt;
+
+&lt;p&gt;If this is your first time to Emporia, here’s a little bit of what you can expect based on my previous visits.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get there early! You’re going to want time to do some of the things below.&lt;/li&gt;
+  &lt;li&gt;Get out on group rides! There are plenty of group rides going on this week. Join a couple of them. Most of them are not long/complex rides, but can be a good intro to some of the course that you’ll see in the 50/100/200 mile rides on Saturday. You might also get some sponsor swag at their organized group rides too.
+    &lt;ul&gt;
+      &lt;li&gt;No you don’t need to actually be entered into Unbound Gravel to enter some of these group rides! Check with organizers to be sure.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lots of sponsor swag! Keep on the look out if you like collecting things. Anyone want to see my bandana collection from DK/Unbound? I don’t even know what to do with them all.&lt;/li&gt;
+  &lt;li&gt;EXPO, this is the big one. The All Things Gravel Expo is a must see event! It has limited hours, only on Thursday and Friday, you won’t find it on Saturday or Sunday!
+    &lt;ul&gt;
+      &lt;li&gt;Thursday, May 30, 2024   2:00 PM – 7:00 PM&lt;/li&gt;
+      &lt;li&gt;Friday, May 31, 2024     10:00 AM – 5:00 PM&lt;br /&gt;
+  Definitely get out there and check if out. If you like swag this is the place to be. You can find t-shirts, bottles, food samples, bandanas and who knows what else as giveaways, and you can purchase even more!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Some of the Emporia local shops are great, check them out! Also be sure to check out Daylight Donuts if they are still open, holy flaky goodness. Merchant Cycles is absolutely worth a stop as well.&lt;/li&gt;
+  &lt;li&gt;Be sure to attend/watch the rider’s meeting for important info.&lt;/li&gt;
+  &lt;li&gt;Check in early to get everything you need for your ride, and make sure you’ve got a plan for where/how you are meeting your support crew! YOU NEED A SUPPORT CREW and a PLAN.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After your finish your ride you’re going to want to take part in the bike washing stations!&lt;/p&gt;
+
+&lt;p&gt;Take care of yourselves out there, be preapred, be ready for anything, and most of all, just enjoy the week! You’re in for it!&lt;/p&gt;
+
+&lt;p&gt;I hope to see you out there again next year.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 28 May 2024 04:05:00 -0500</pubDate>
+        <pubDate>Tue, 28 May 2024 05:05:00 -0500</pubDate>
         <link>http://localhost:4000/unbound-gravel-2024</link>
         <guid isPermaLink="true">http://localhost:4000/unbound-gravel-2024</guid>
         
@@ -661,8 +689,6 @@ Member registration opens at 10 AM MST on 12/29/23&lt;/p&gt;
         <category>Gravel</category>
         
         <category>Unbound Gravel</category>
-        
-        <category>UnboundGravel</category>
         
       </item>
     

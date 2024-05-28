@@ -7,7 +7,7 @@ keywords: "bicycle, tips"
 permalink: "/bicycle-maintenance"
 image: Content/2023/Maintenance/Maintenance-1.jpg
 categories: [ Bike, Maintenance, Tips ]
-featured: true
+featured: false
 author: chris
 redirect_from:
     - "/bicyce-maintenance"

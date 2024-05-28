@@ -7,7 +7,7 @@ keywords: "unbound, gravel, unbound gravel, lodging, kansas, emporia"
 permalink: "/unbound-gravel-hotels"
 image: Content/2022/UnboundGravel/UnboundGravel2022-13.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime ]
-featured: true
+featured: false
 author: chris
 ---
 So you're thinking you might want to go to Unbound Gravel 2023? The lottery won't open up until January 2023, but if you haven't booked a hotel already, you're out of luck.

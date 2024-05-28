@@ -8,7 +8,7 @@ keywords: "unbound, gravel, unbound gravel, lodging, kansas, emporia, lotto, ent
 permalink: "/unbound-gravel-2024-lotto"
 image: Content/2023/UnboundGravel/Unbound21-2.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime ]
-featured: true
+featured: false
 author: chris
 ---
 So Unbound Gravel 2024 is coming up, with registrations opening already (depending on your status and distance). 
