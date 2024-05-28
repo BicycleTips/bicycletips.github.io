@@ -17,7 +17,7 @@ var documents = [{
     }, {
     "id": 3,
     "url": "https://www.bicycletips.com/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "  Welcome to BicycleTips. com      A cycling website dedicated to bringing you the latest tips, tricks, product and ride reviews, primarily focused on gravel cycling.         Featured:                                                                                                                                                                                                             Coming in 2024, and 2023 a year in review                              :               So here we are, another year later. 2023 wasn’t much in terms of riding, but I’ll get to that in a bit. 2023 was quite. . . :                                                                                                                                                                                         Chris Hammond                                                  01 Jan 2024                                                                                                                                                                                                                                                                                                                    Unbound Gravel 2024: Your Guide to Registration Options                              :               So Unbound Gravel 2024 is coming up, with registrations opening already (depending on your status and distance). :                                                                                                                                                                                         Chris Hammond                                                  06 Dec 2023                                                                                                                                                                                                                                                                                                                    Bicycle Maintenance Tips and Instructions                              :               Bike Maintenance Instructions::                                                                                                                                                                                         Chris Hammond                                                  30 Jan 2023                                                                                                                                                                                                                                                                                                                    Getting into Unbound Gravel 2023                              :               Did you know that the Lotto for entry into Unbound Gravel 2023 opens today? (January 5th, 2023). If you are interested in getting into the. . . :                                                                                                                                                                                         Chris Hammond                                                  05 Jan 2023                                                                                                                                                                                                                                                                                                                    Finding a place to stay at Unbound Gravel                              :               So you’re thinking you might want to go to Unbound Gravel 2023? The lottery won’t open up until January 2023, but if you haven’t booked. . . :                                                                                                                                                                                         Chris Hammond                                                  30 Jun 2022                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      All Stories:                                                                               Coming in 2024, and 2023 a year in review              :       So here we are, another year later. 2023 wasn’t much in terms of riding, but I’ll get to that in a bit. 2023 was quite the adventure from a family. . . :                                                                                               Chris Hammond                          01 Jan 2024                                                                                                              Unbound Gravel 2024: Your Guide to Registration Options              :       So Unbound Gravel 2024 is coming up, with registrations opening already (depending on your status and distance). :                                                                                               Chris Hammond                          06 Dec 2023                                                                                                              Bicycle Maintenance Tips and Instructions              :       Bike Maintenance Instructions::                                                                                               Chris Hammond                          30 Jan 2023                                                                                                              Getting into Unbound Gravel 2023              :       Did you know that the Lotto for entry into Unbound Gravel 2023 opens today? (January 5th, 2023). If you are interested in getting into the event, you should definitely check. . . :                                                                                               Chris Hammond                          05 Jan 2023                                                                                                              Finding a place to stay at Unbound Gravel              :       So you’re thinking you might want to go to Unbound Gravel 2023? The lottery won’t open up until January 2023, but if you haven’t booked a hotel already, you’re out. . . :                                                                                               Chris Hammond                          30 Jun 2022                                                                                                              Unbound Gravel 100 2022 Ride Review              :       Unbound Gravel 2022, was awesome…:                                                                                               Chris Hammond                          22 Jun 2022                                               &laquo; Prev       1        2        3        4        5        6        7        8        9        10        11        12        13        14        15      Next &raquo; "
     }, {
     "id": 4,
@@ -1057,72 +1057,72 @@ var documents = [{
     }, {
     "id": 211,
     "url": "https://www.bicycletips.com/page2/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 212,
     "url": "https://www.bicycletips.com/page3/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 213,
     "url": "https://www.bicycletips.com/page4/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 214,
     "url": "https://www.bicycletips.com/page5/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 215,
     "url": "https://www.bicycletips.com/page6/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 216,
     "url": "https://www.bicycletips.com/page7/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 217,
     "url": "https://www.bicycletips.com/page8/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 218,
     "url": "https://www.bicycletips.com/page9/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 219,
     "url": "https://www.bicycletips.com/page10/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 220,
     "url": "https://www.bicycletips.com/page11/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 221,
     "url": "https://www.bicycletips.com/page12/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 222,
     "url": "https://www.bicycletips.com/page13/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 223,
     "url": "https://www.bicycletips.com/page14/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 224,
     "url": "https://www.bicycletips.com/page15/",
-    "title": "Home",
+    "title": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
     "body": "{% if page. url == “/” %}   Welcome to {{ site. name }}      {{ site. description }}         Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 225,
