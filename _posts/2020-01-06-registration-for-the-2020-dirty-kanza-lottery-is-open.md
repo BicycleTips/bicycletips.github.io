@@ -18,7 +18,7 @@ Yes, lottery. There is SO much demand for the grand daddy ride called Dirty Kanz
 
 If you don’t get selected, you don’t have to worry about your card being charged. 
 
-[Looking for some tips on registering and seeing if you can get in? Check out our article from last month](/registration-for-the-2020-dirty-kanza-lottery-is-open).
+[Looking for some tips on registering and seeing if you can get in? Check out our article from last month](/tips-for-registering-for-dirty-kanza).
 
 Be sure to check out the DirtyKanza.com Registration page as well.
 
