@@ -28,7 +28,7 @@ Fourth, locked in, is the **Big Sugar** down in NWA (Northwest Arkansas), Benton
 
 ## Other notable rides (there are a lot more):
 
-The Epic In Missouri, 150/80 is April 25th, 2020 and is near the Lake Of the Ozarks, MO. I’m still debating on this ride, though being a week before Hermann makes it a little more difficult to justify. [Epic150.com](http://epic150.com/)
+The Epic In Missouri, 150/80 is April 25th, 2020 and is near the Lake Of the Ozarks, MO. I’m still debating on this ride, though being a week before Hermann makes it a little more difficult to justify. [Epic150.com](https://epic150.com/)
 
 Cuban Gravel Crisis will likely be held in October again, out of Cuba, MO. It doesn’t look to currently have a date, but I imagine it will be the second weekend of the month. Last year four of us did the 50, it was cold (below freezing at start) and was over 5k feet of climbing, definitely a ride worth checking out this fall. CubanGravelCrisis (link removed)
 

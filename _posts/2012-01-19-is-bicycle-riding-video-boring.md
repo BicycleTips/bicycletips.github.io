@@ -20,7 +20,7 @@ So the videos that come from that riding are to put it bluntly BORING.
 
 See the following video for example. This video is from last weekend, I went out to Orinda with a buddy of mine to ride, we rode 14.5 miles, climbing 1.6k feet, the most climbing I have ever done on a bike. Our average speed was 8mph&hellip; You can see where I am going with this, boring video! Though it does look a little more interesting when you compress that 1.75 hours into 2 minutes.
 
-<iframe frameborder="0" height="360" src="http://www.youtube.com/embed/sRfSx2v08lQ?hd=1&amp;wmode=opaque" width="640"></iframe>
+<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/sRfSx2v08lQ?hd=1&amp;wmode=opaque" width="640"></iframe>
 
 and don't forget the video from a couple of months ago riding around [Half Moon Bay, CA](https://www.bicycletips.com/bike-riding-in-half-moon-bay-the-video)
 

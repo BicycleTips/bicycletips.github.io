@@ -15,7 +15,7 @@ Last Wednesday I went for a ride at lunch time with a coworker of mine. I decide
 
 If you're thinking "boy, that sounds like it won't work" you are correct. It didn't work out very well, the pole wasn't near stable enough for the camera, so it made for a very wobbly video of the ride. I still think it is interesting though, so I editing, sped up, slowed down, and uploaded it to YouTube. You can see it here.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/ZFz0ccYgm3s" width="560"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ZFz0ccYgm3s" width="560"></iframe>
 
 As you can see the video isn't worth much. I took what I learned from the experiment and tried to create a better mount for my car for the autocross this past weekend. That didn't work out so well either, but [you can read about that over on Project350z.com](https://www.autocrossblog.com/mounting-a-video-camera-behind-your-car).
 
