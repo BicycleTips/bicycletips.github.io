@@ -85,6 +85,50 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "NewsArticle",
+				"url": "https://www.bicycletips.com/garmin-edge-500-software-missing-after-32-update",
+				"name": "Garmin Edge 500 “Software Missing” after 3.2 Update",
+				"headline": "Garmin Edge 500 “Software Missing” after 3.2 Update",
+				"keywords": "",
+				"description": "Last night Garmin was nice enough to send out an email to all Edge 500 users (assuming they sent it to anyone who has registered their device with Garmin.com). The email said there was an update available, and recommended that people perform the update by going to your dashboard on my.garmin.com.",
+				"articleBody": "Last night Garmin was nice enough to send out an email to all Edge 500 users (assuming they sent it to anyone who has registered their device with Garmin.com). The email said there was an update available, and recommended that people perform the update by going to your dashboard on my.garmin.com.\n\nLong story short, I updated my device, but it failed. So I tried again, and it failed, this time bricking the device. I was unable to get it to power on, until I tried every button press combination possible until I was able to get it to give me something.\n\nI believe the proper combination of buttons is (Power+Menu+Lap) hold them down, then release all at once. If that doesn't work try holding all 4 buttons down and releasing.\n\nUltimately I was able to get it to show me the Garmin splash screen, then it would scream (beep) and show me \"Software Missing\" on the screen. I found a number of different threads on Garmin.com regarding this, but had difficulty finding something that would actually work to help me get the device going again.\n\nFirst a warning: I take no responsibility for any damage you cause to your computer or Garmin by following these steps. I had backed up all my data before letting Garmin run the update, so I was covered, hopefully you did the same before your device bricked.Here are the steps I used, to restore my Garmin Edge 500 from the Software Missing message. Download the ZIP file from this Google Docs page, under file choose download. Disclaimer, I didn't upload or create this, I just found it via this post on my.garmin.com&nbsp; While trying to follow the instructions in the Update.txt file I was unable to get Step 2 to work, so I have included my steps for this portion below.   Please extract the ZIP to a folder on your computer.  You should see two files, which are B103600K_0300.rgn and Updater.exex  Rename Updater.exe  With the device powered Off but plugged in to your PC, hold the button combo from earlier to get to the Software Missing screen. If your computer doesn't \"beep\" as the device comes on, you might need to try again until Windows recognizes the device is there.  Drop the file B103600K_0300.rgn onto Updater.exe and select USB Device and click OK.  Wait until the device finishes loading software.  Now you should be able to disconnect the device and power it on like normal and it should have SW version 3.00 loaded.   At this point I then got a corrupt message from Windows, asking if I wanted to repair the device. I chose to say no, and then I formatted the device via Windows with the following options   FAT file system (default)  Allocation unit size 2048 (default)  Volume Label GARMIN  Quick Format enabled  MS DOS Startup Disabled   Installed WebUpdater from Garmin to update the device www.garmin.com/webupdater Eject your device in Windows Remove from Computer Power Off Plug in to PC Run WebUpdater, find your device, and go through the update process I then went to the Garmin Dashboard and still had an update message, so I ran the process there as well.Hopefully that works for you like it worked for me. Now, the question is, why are Garmin Edge devices failing on this update? I think it is due to the bad sectors on the drive, being caused by unplugging the device from Windows without ejecting it first. At least, I hope that is it, I will be ejecting my Edge before disconnection every time (at least when I remember).\n\nIf I was unable to restore my Edge 500, I was going to take it back to REI and exchange it (plus cash) for a new Edge 510, so while I am happy I was able to save it, I was a tad disappointed.\n",
+				"datePublished": "2013-05-09 23:24:12 +0000",
+				"dateModified": "2013-05-09 23:24:12 +0000",
+
+				"author": {
+					"@type": "Person",
+					"name": "Chris Hammond",
+					"givenName": "Chris",
+					"familyName": "Hammond",
+					"email": "bicycletips@christoc.com",
+					"url": "https://www.chrishammond.com"
+				},
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "BicycleTips.com",
+					"url": "https://www.bicycletips.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://www.bicycletips.com/assets/images/logo.png"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.bicycletips.com//garmin-edge-500-software-missing-after-32-update"
+				},
+				"image": {
+					"@type": "ImageObject",
+					"url": "https://www.bicycletips.com/assets/images_out/Content/2013/5-9-13-GarminEdge500_705-705-ad8068e48.jpg"
+				}
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -247,7 +291,7 @@
 							<!-- Post -->
 
 							<div class="col-md-9 flex-first flex-md-unordered">
-								<article itemscope itemtype="https://schema.org/BlogPosting">
+								<article itemscope itemtype="https://schema.org/NewsArticle">
 									<div class="mainheading">
 										<header>
 											<!-- Post Title -->
