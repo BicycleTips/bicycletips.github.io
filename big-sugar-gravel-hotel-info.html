@@ -123,10 +123,9 @@
 					"@type": "WebPage",
 					"@id": "https://www.bicycletips.com//big-sugar-gravel-hotel-info"
 				},
-				"image": {
-					"@type": "ImageObject",
-					"url": "https://www.bicycletips.com/assets/images_out/Content/LunarKanza2019/LKPaper-800-d81162c76.jpg"
-				}
+				"image": [
+					"https://www.bicycletips.com/assets/images_out/Content/LunarKanza2019/LKPaper-800-d81162c76.jpg"
+				]
 			}
 		</script>
 	</head>
@@ -291,7 +290,7 @@
 							<!-- Post -->
 
 							<div class="col-md-9 flex-first flex-md-unordered">
-								<article itemscope itemtype="https://schema.org/NewsArticle">
+								<article itemscope itemtype="https://schema.org/BlogPosting">
 									<div class="mainheading">
 										<header>
 											<!-- Post Title -->
@@ -321,20 +320,17 @@
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
 												>
-													<div itemtype="https://schema.org/Person">
-														By:
-														<a
-															class="link-dark"
-															href="https://www.chrishammond.com"
-															itemprop="sameAs"
-															><span itemprop="name">Chris Hammond</span></a
-														><a
-															href="https://twitter.com/christoc"
-															class="btn follow"
-															itemprop="sameAs"
-															>Follow</a
-														>
-													</div>
+													By:
+													<a
+														class="link-dark"
+														href="https://www.chrishammond.com"
+														>Chris Hammond</a
+													>
+													<a
+														href="https://twitter.com/christoc"
+														class="btn follow"
+														>Follow</a
+													>
 												</div>
 											</div>
 										</header>
@@ -366,6 +362,7 @@
 
 									<img
 										class="featured-image img-fluid lazyimg"
+										itemprop="image"
 										src="/assets/images_out/Content/LunarKanza2019/LKPaper-800-d81162c76.jpg"
 										alt="Hotel Info for Big Sugar Gravel in Bentonville, Arkansas"
 										srcset="
@@ -378,7 +375,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -457,6 +454,9 @@
 										<div class="row post-top-meta">
 											<div
 												class="col-xs-12 col-md-12 col-lg-12 text-center text-md-left"
+												itemscope
+												itemprop="author"
+												itemtype="https://schema.org/Person"
 											>
 												<h3>About the Author:</h3>
 												<div
@@ -470,18 +470,15 @@
 												</div>
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
-													itemprop="author"
-													itemtype="https://schema.org/Person"
 												>
 													<a
 														class="link-dark"
 														href="https://www.chrishammond.com"
-														itemprop="sameAs"
-														><span itemprop="name">Chris Hammond</span></a
+														itemprop="url"
+														><div itemprop="name">Chris Hammond</div></a
 													><a
 														href="https://twitter.com/christoc"
 														class="btn follow"
-														itemprop="sameAs"
 														>Follow</a
 													>
 												</div>
@@ -617,10 +614,6 @@
 					</div>
 
 					<!--End Comments
-================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 				</main>
 
