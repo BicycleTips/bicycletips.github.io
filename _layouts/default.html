@@ -99,10 +99,9 @@
         "@type": "WebPage",
         "@id": "{{ site.url }}/{{ page.url }}"
       },
-      "image": {
-        "@type": "ImageObject",
-        "url": "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}"
-      }
+      "image": [
+        "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}"
+      ]
     }
     </script>
 
