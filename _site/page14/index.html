@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,6 +45,41 @@
 <link href="/assets/css/main.css" rel="stylesheet">
 
 <script src="/assets/js/jquery.min.js"></script>
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "url": "http://localhost:4000/page14/",
+      "name": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
+      "headline": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
+      "keywords": "",
+      "description": "",
+      "articleBody": "\n\n\n    Welcome to {{ site.name }} \n        {% if paginator.page %}\n            {% if paginator.page > 1 %}\n                - Page {{ paginator.page }} of {{ paginator.total_pages }} \n            {% endif %}\n        {% endif %}\n    \n    \n        {{ site.description }}\n    \n\n\n{% if page.url == \"/\" %}\n\n\n\n    \n        Featured\n    \n    \n\n    {% for post in site.posts %}\n\n        {% if post.featured == true %}\n\n            {% include featuredbox.html %}\n\n        {% endif %}\n\n    {% endfor %}\n\n    \n\n\n{% endif %}\n\n\n\n\n    \n\n        All Posts\n\n    \n\n    \n\n        {% for post in paginator.posts %}\n\n        {% include postbox.html %}\n\n        {% endfor %}\n\n    \n\n\n\n\n\n\n\n    {% include pagination.html %}\n\n\n\n",
+      "datePublished": null,
+      "dateModified": null,
+      
+      "publisher": {
+        "@type": "Organization",
+        "name": "BicycleTips.com",
+        "url": "http://localhost:4000",
+        "logo": {
+          "@type": "ImageObject",
+          "width": 32,
+          "height": 32,
+          "url": "http://localhost:4000/assets/images/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://localhost:4000//page14/"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "http://localhost:4000"
+      }
+    }
+    </script>
 
 </head>
 
@@ -219,7 +255,10 @@
                 <a class="text-dark" href="/tracking-your-rides-what-do-you-use">Tracking your rides, what do you use?</a>
                 
             </h2>
-            <h4 class="card-text">So this isn’t going to be a long tip, as this topic will likely fill out future tips as well, but for now I will raise a question. How do...</h4>
+            <h4 class="card-text">
+
+So this isn’t going to be a long tip, as this topic will likely fill out future tips as well, but for now I will raise a question.
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -536,7 +575,7 @@
                 
                     <a class="mt-1 mb-1" href="/category/2022/">2022 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2023/">2023 (2)</a>
+                    <a class="mt-1 mb-1" href="/category/2023/">2023 (1)</a>
                 
                     <a class="mt-1 mb-1" href="/category/2024/">2024 (2)</a>
                 

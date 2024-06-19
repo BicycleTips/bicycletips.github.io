@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,6 +45,41 @@
 <link href="/assets/css/main.css" rel="stylesheet">
 
 <script src="/assets/js/jquery.min.js"></script>
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "url": "http://localhost:4000/page2/",
+      "name": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
+      "headline": "BicycleTips.com Tips, Tricks, Product and Ride Reviews",
+      "keywords": "",
+      "description": "",
+      "articleBody": "\n\n\n    Welcome to {{ site.name }} \n        {% if paginator.page %}\n            {% if paginator.page > 1 %}\n                - Page {{ paginator.page }} of {{ paginator.total_pages }} \n            {% endif %}\n        {% endif %}\n    \n    \n        {{ site.description }}\n    \n\n\n{% if page.url == \"/\" %}\n\n\n\n    \n        Featured\n    \n    \n\n    {% for post in site.posts %}\n\n        {% if post.featured == true %}\n\n            {% include featuredbox.html %}\n\n        {% endif %}\n\n    {% endfor %}\n\n    \n\n\n{% endif %}\n\n\n\n\n    \n\n        All Posts\n\n    \n\n    \n\n        {% for post in paginator.posts %}\n\n        {% include postbox.html %}\n\n        {% endfor %}\n\n    \n\n\n\n\n\n\n\n    {% include pagination.html %}\n\n\n\n",
+      "datePublished": null,
+      "dateModified": null,
+      
+      "publisher": {
+        "@type": "Organization",
+        "name": "BicycleTips.com",
+        "url": "http://localhost:4000",
+        "logo": {
+          "@type": "ImageObject",
+          "width": 32,
+          "height": 32,
+          "url": "http://localhost:4000/assets/images/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://localhost:4000//page2/"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "http://localhost:4000"
+      }
+    }
+    </script>
 
 </head>
 
@@ -181,7 +217,8 @@
                 <a class="text-dark" href="/unbound-gravel-2022-ride-review">Unbound Gravel 100 2022 Ride Review</a>
                 
             </h2>
-            <h4 class="card-text">Unbound Gravel 2022, was awesome… Planning for this adventure started in 2019 after I completed the 100 mile event at what was then known as Dirty Kanza. In July 2019,...</h4>
+            <h4 class="card-text">Unbound Gravel 2022, was awesome…
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -269,7 +306,8 @@
                 <a class="text-dark" href="/2021-year-in-review-2022-coming-into-view">2021 Year in Review and 2022 Coming Into View</a>
                 
             </h2>
-            <h4 class="card-text">It’s January 10th already? I’ve only been on the bike once so far this year? Sounds like last year, but I can’t fall into that hole again… So let’s talk...</h4>
+            <h4 class="card-text">It’s January 10th already? I’ve only been on the bike once so far this year? Sounds like last year, but I can’t fall into that hole again…
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -313,7 +351,8 @@
                 <a class="text-dark" href="/unbound-gravel-2022-registration-options">How to enter Unbound Gravel for 2022</a>
                 
             </h2>
-            <h4 class="card-text">So you think you want to try to take on Unbound Gravel, but you aren’t sure how to get in? Well, to be honest, for 2022, your options are limited....</h4>
+            <h4 class="card-text">So you think you want to try to take on Unbound Gravel, but you aren’t sure how to get in?
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -357,7 +396,8 @@
                 <a class="text-dark" href="/unbound-gravel-2022-details">2022 Unbound Gravel Details - October 2021</a>
                 
             </h2>
-            <h4 class="card-text">Details for Unbound Gravel 2022 are starting to be shared, I’ll try to make it a point to update this post with info as it becomes available. Event Date and...</h4>
+            <h4 class="card-text">Details for Unbound Gravel 2022 are starting to be shared, I’ll try to make it a point to update this post with info as it becomes available.
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -551,7 +591,7 @@
                 
                     <a class="mt-1 mb-1" href="/category/2022/">2022 (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/category/2023/">2023 (2)</a>
+                    <a class="mt-1 mb-1" href="/category/2023/">2023 (1)</a>
                 
                     <a class="mt-1 mb-1" href="/category/2024/">2024 (2)</a>
                 
