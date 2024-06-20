@@ -62,6 +62,7 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+{% if page.url != "/" %}
 <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -103,7 +104,8 @@
         "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}"
       ]
     }
-    </script>
+</script>
+{% endif %}
 
 </head>
 
