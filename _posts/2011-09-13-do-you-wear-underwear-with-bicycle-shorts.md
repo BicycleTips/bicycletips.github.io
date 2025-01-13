@@ -11,7 +11,7 @@ redirect_from:
     - "/tips/2011/09/do-you-wear-underwear-with-bicycle-shorts"
     - "/tips/aid/13"
 author: chris
-redirect_to: "/2011/do-you-wear-underwear-with-bicycle-shorts"
+redirect_to: "https://www.chrishammond.com/2011/do-you-wear-underwear-with-bicycle-shorts"
 ---
 So this is actually a very common question on the internet, and why would I post about it? Because I had the question, and I had to spend time looking it up and reading, so for all of you newbies (like me) who are getting into biking, the question stands.
 
