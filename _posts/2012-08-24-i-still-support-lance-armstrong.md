@@ -11,6 +11,7 @@ redirect_from:
     - "/tips/2012/08/i-still-support-lance-armstrong"
     - "/tips/aid/32"
 author: chris
+redirect_to: "https://www.chrishammond.com/2012/i-still-support-lance-armstrong"
 ---
 Today is the day that Lance Armstrong packed up camp and went home. He has publicly announced that he is no longer going to battle with the USADA over the doping allegations.
 

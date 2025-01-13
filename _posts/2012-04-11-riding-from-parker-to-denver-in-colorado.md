@@ -10,6 +10,7 @@ redirect_from:
     - "/tips/2012/04/riding-from-parker-to-denver-in-colorado"
     - "/tips/aid/29"
 author: chris
+redirect_to: "https://www.chrishammond.com/2012/riding-from-parker-to-denver-in-colorado"
 ---
 This post is a couple of weeks late, my fault, I know, been a busy time getting caught up from my trip, taking another trip, and planning a trip later this month. While I was in the Denver area I managed to rent a bike thanks to a friend (via twitter), and decided I wanted to go for a couple of long bike rides.
 
