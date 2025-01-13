@@ -12,6 +12,7 @@ redirect_from:
     - "/tips/2016/03/benefit-of-cold-weather-cycling-clearing-the-sinuses"
     - "/tips/aid/37"
 author: chris
+redirect_to: "https://www.chrishammond.com/2016/benefit-of-cold-weather-cycling-clearing-the-sinuses"
 ---
 There are many obvious health benefits to riding your bicycle, and by riding your bicycle year-round, you can work to keep your body in shape for the prime riding in Spring, Summer, and Fall. One of the best benefits I've found to cold/chilly weather riding is the clearing out of the sinuses!
 
