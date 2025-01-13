@@ -10,6 +10,7 @@ redirect_from:
     - "/tips/2011/06/learning-to-deal-with-your-new-bicycle-legs"
     - "/tips/aid/2"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/learning-to-deal-with-your-new-bicycle-legs"
 ---
 So this won't necessarily be a tip, but it will hopefully be something for people to comment on with their own thoughts. I'm new to cycling, I'll explain more of that over the next few weeks, but just understand that I've not really ridden a bike in years, until the past couple of weeks.
 

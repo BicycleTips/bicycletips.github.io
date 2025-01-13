@@ -10,6 +10,7 @@ redirect_from:
     - "/tips/2011/07/biking-at-night-prep-for-the-trip"
     - "/tips/aid/4"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/biking-at-night-prep-for-the-trip"
 ---
 So today is the Fourth of July, and what is everyone going to be doing tonight? Going to watch Fireworks of course. The wife and I are as well, though we are leaving the baby at home with her Nana for the evening. Here in Half Moon Bay, CA there are fireworks scheduled over in El Granada, which is about a 3 mile bike ride for us.
 

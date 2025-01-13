@@ -11,6 +11,7 @@ redirect_from:
     - "/tips/2011/07/getting-a-bike-to-ride-heres-our-story"
     - "/tips/aid/3"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/getting-a-bike-to-ride-heres-our-story"
 ---
 So our story began a while back. We've talked of getting bikes so that we could start riding. By a while, I think we've talked about it for 3 or 4 years? My brother is "in the industry" or used to be, so I had visions of getting deep discounts on something really cool. Before we get into the selection, a little background on me. As a kid I was always on a bike, but only a bmx style bike, never a road bike, never a "10-speed" as we called them back then, never a mountain bike. Though I did pick up a mountain bike for $25 in high school, I honestly think I rode it home, and then likely never again. I never rode for competition, it was always for fun.
 
