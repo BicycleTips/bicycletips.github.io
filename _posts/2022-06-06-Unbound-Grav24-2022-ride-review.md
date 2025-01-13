@@ -9,6 +9,7 @@ image: Content/2022/UnboundGravel/UnboundGravel2022-15.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime, Mud, Ride Review ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2022/unbound-gravel-100-2022-ride-review"
 ---
 Unbound Gravel 2022, was awesome... 
 
