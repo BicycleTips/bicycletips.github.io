@@ -12,6 +12,7 @@ redirect_from:
     - "/tips/2011/07/staying-safe-while-riding-your-bike-be-identifiable"
     - "/tips/aid/5"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/staying-safe-while-riding-your-bike-be-identifiable"
 ---
 So as a new bike rider I am highly concerned about being safe while I ride. I also don't like the idea of carrying my wallet with me while I ride. It's bulky, could get lost, or who knows what else.
 
