@@ -11,6 +11,7 @@ redirect_from:
     - "/tips/2011/07/tracking-your-rides-what-do-you-use"
     - "/tips/aid/7"
 author: chris
+redirrect_to: "https://www.chrishammond.com/2011/tracking-your-rides-what-do-you-use"
 ---
 {% picture  Posts/data_th.jpg --alt Bicycle Ride Data --style float:left; width:200px; %} 
     

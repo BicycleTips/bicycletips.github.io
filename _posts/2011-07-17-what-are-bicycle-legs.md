@@ -10,6 +10,7 @@ redirect_from:
     - "/tips/2011/07/what-are-bicycle-legs"
     - "/tips/aid/8"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/what-are-bicycle-legs"
 ---
 So this website has been up for a few weeks now, and after looking at the Traffic here on the site, we're getting incoming search links for the term Bicycle Legs.
 

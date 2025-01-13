@@ -12,6 +12,7 @@ redirect_from:
     - "/tips/2011/07/video-changing-the-tube-on-a-bike-tire"
     - "/tips/aid/9"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/video-changing-the-tube-on-a-bike-tire"
 ---
 So if you follow us on [Twitter](https://twitter.com/bicycletips) or [Facebook](https://www.facebook.com/bicycletips) you likely saw that Sunday was a planned ride day, but while trying to make sure I had air in my tires I ended up tearing one of the tubes. Not having any spares around was the first lesson, always have some extras!
 

@@ -11,6 +11,7 @@ redirect_from:
     - "/tips/2011/10/my-foray-into-clipless-clipped-pedals"
     - "/tips/aid/14"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/my-foray-into-clipless-clipped-pedals"
 ---
 First things first, I had no idea why they are called clipless pedals, and I still doubt the reasoning I read. I am actually going to call them CLIP pedals, because that is what they really are. More on that later.
 

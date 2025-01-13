@@ -10,6 +10,7 @@ redirect_from:
     - "/tips/2011/08/pulling-a-baby-in-a-bike-trailer"
     - "/tips/aid/11"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/pulling-a-baby-in-a-bike-trailer"
 ---
 So today was our first time taking [Jacqueline](https://www.jacquelinehammond.com) out for a bike ride. She loved it! If by loving it, I mean, she pretty much slept through the whole thing.
 
