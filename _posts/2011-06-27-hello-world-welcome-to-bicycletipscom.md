@@ -10,6 +10,8 @@ redirect_from:
     - "/tips/2011/06/hello-world-welcome-to-bicycletipscom"
     - "/tips/aid/1"
 author: chris
+redirect_to: 
+    - https://www.chrishammond.com/2011/hello-world-welcome-to-bicycletipscom
 ---
 So here we go, yet another blog for me, but this time for something a little different than what I usually (<a href="https://www.project240z.com/" target="_blank">project350z.com</a>, <a href="https://www.project240z.com/" target="_blank">project240z.com</a>, dnndaily.com (no longer around), <a href="https://www.autocrossblog.com/">solo2.org</a>)!
 
