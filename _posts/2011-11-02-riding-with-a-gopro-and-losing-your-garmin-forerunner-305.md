@@ -10,6 +10,7 @@ redirect_from:
     - "/tips/2011/11/riding-with-a-gopro-and-losing-your-garmin-forerunner-305"
     - "/tips/aid/15"
 author: chris
+redirect_to: "https://www.chrishammond.com/2011/riding-with-a-gopro-and-losing-your-garmin-forerunner-305"
 ---
 Last Wednesday I went for a ride at lunch time with a coworker of mine. I decided to take the [GoPro Camera](https://amzn.to/4dzpxtP) along with me for the ride, though not attached to the bike itself, or to me, I attached it to a 3 foot pole, that I mounted to the front of the bike.
 
