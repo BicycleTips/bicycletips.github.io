@@ -11,6 +11,7 @@ redirect_from:
   - "/tips/2019/06/2019-dirty-kanza-half-pint-100-ride-review"
   - "/tips/aid/48"
 author: chris
+redirect_to: "https://www.chrishammond.com/2019/2019-dirty-kanza-half-pint-100-ride-review"
 ---
 Wow, what a weekend. The 2019 running of the Dirty Kanza has come and gone, and all I can think about is doing it again, not next year, but next weekend! I can't wait for the opportunity to enter and hopefully try the event in 2020. I'll give a rundown of the weekend's activities.
 
