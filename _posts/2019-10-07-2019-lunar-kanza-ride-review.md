@@ -11,6 +11,7 @@ redirect_from:
   - "/tips/2019/10/2019-lunar-kanza-ride-review"
   - "/tips/aid/50"
 author: chris
+redirect_to: "https://www.chrishammond.com/2019/2019-lunar-kanza-ride-review"
 ---
 A few months late, but here it goes! Back in July, I headed out to Emporia again, this time with my buddy Wagner. We planned for a few weeks to hit up the Lunar Kanza, with the intention of 1) trying to secure a lotto bypass for Dirty Kanza 2020, and 2) having fun. In that order.
 
