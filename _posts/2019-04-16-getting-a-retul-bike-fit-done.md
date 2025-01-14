@@ -12,6 +12,7 @@ redirect_from:
     - "/tips/2019/04/getting-a-retul-bike-fit-done"
     - "/tips/aid/44"
 author: chris
+redirect_to: "https://www.chrishammond.com/2019/getting-a-retul-bike-fit-done"
 ---
 It has been a while since I've blogged here on BicycleTips and it is time to get started again! Less than 2 months remain until I ride the 100-mile distance at the Dirty Kanza #DK100 in the hills of Kansas, so it is time to dust off the bike, dust off the keyboard, and get to stroking the pedals and the keys.
 
