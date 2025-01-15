@@ -11,6 +11,7 @@ redirect_from:
   - "/home/2020/01/bicycle-tips-gravel-plans-for-2020"
   - "/tips/2020/01/bicycle-tips-gravel-plans-for-2020"
 author: chris
+redirect_to: "https://www.chrishammond.com/2020/bicycle-tips-gravel-plans-for-2020"
 ---
 Two weeks into the new year and we’re back with a post! Life got in the way of our plans of having more posts here early on in the year, but that’s okay, we’re getting life squared away and have been doing plenty of riding/training to make up for the lack of posts here.
 

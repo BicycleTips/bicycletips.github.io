@@ -11,6 +11,7 @@ redirect_from:
   - "/tips/2019/12/tips-for-registering-for-dirty-kanza"
   - "/home/2019/12/tips-for-registering-for-dirty-kanza"
 author: chris
+redirect_to: "https://www.chrishammond.com/2019/tips-for-registering-for-dirty-kanza"
 ---
 If you're reading this, you might be interested in trying to get a spot in the Dirty Kanza for 2020. If so, you've come to the right place to get some info to try to better your chances for getting in, or worsen them, nothing is guaranteed, so don't hold it against us if you don't make it! For all the official registration information, visit the DK Registration page, but for tips, read below.
 

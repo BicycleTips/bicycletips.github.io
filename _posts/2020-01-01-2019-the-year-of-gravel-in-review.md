@@ -10,6 +10,7 @@ redirect_from:
   - "/tips/2020/01/2019-the-year-of-gravel-in-review"
   - "/home/2020/01/2019-the-year-of-gravel-in-review"
 author: chris
+redirect_to: "https://www.chrishammond.com/2020/2019-the-year-of-gravel-in-review"
 ---
 Not sure we'll get this posted before the end of 2019, but we've at least started writing it before then! So a quick review of all things ‘19, look for another post for what's coming in ‘20! 2019 was our first real Gravel year, and hopefully the first of many.
 

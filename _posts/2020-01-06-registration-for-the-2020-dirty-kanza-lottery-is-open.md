@@ -9,6 +9,7 @@ redirect_from:
   - "/home/2020/01/registration-for-the-2020-dirty-kanza-lottery-is-open"
   - "/tips/2020/01/registration-for-the-2020-dirty-kanza-lottery-is-open"
 author: chris
+redirect_to: "https://www.chrishammond.com/2020/registration-for-the-2020-dirty-kanza-lottery-is-open"
 ---
 If you’ve been asleep for a few days you might have missed that registration is open for the 2020 Dirty Kanza lottery. 
 
