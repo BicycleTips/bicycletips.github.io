@@ -9,6 +9,7 @@ redirect_from:
   - "/home/2020/02/2020-prairie-roubaix-100k-rural-assault-ride"
   - "/tips/2020/02/2020-prairie-roubaix-100k-rural-assault-ride"
 author: chris
+redirect_to: "https://www.chrishammond.com/2020/2020-prairie-roubaix-100k-rural-assault-ride"
 ---
 It is already the second week of February, how much riding do you have in? Personally, we started out January strong, got a few outdoor rides in, and quite a few training rides, but here we are the 9th of February and we haven’t been on either bike in 9 days, and it will be tomorrow before we are back on the trainer. 
 
