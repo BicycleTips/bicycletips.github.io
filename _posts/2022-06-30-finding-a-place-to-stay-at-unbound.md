@@ -9,6 +9,7 @@ image: Content/2022/UnboundGravel/UnboundGravel2022-13.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond/2022/finding-a-place-to-stay-at-unbound-gravel"
 ---
 So you're thinking you might want to go to Unbound Gravel 2023? The lottery won't open up until January 2023, but if you haven't booked a hotel already, you're out of luck.
 

@@ -11,6 +11,7 @@ featured: false
 author: chris
 redirect_from:
     - "/bicyce-maintenance"
+redirect_to: "https://www.chrishammond.com/2023/bicycle-maintenance-tips-and-instructions"
 ---
 Bike Maintenance Instructions:
 

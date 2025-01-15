@@ -7,6 +7,7 @@ image: Content/2021/BigSugarGravel/BigSugarGravel-8.jpg
 categories: [ Industry, Gravel, Big Sugar Gravel, LifeTime ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2021/the-2021-big-and-little-sugar-gravel-ride-review"
 ---
 Where to start on this one, it's been an interesting year, not the best to be honest with a variety of things causing turmoil this year, I question how much I want to, or should share, so we'll see what comes out in this post.
 

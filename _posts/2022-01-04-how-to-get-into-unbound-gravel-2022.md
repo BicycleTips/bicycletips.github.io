@@ -7,6 +7,7 @@ image: Content/2022/UnboundGravel2022-1.jpg
 categories: [ Industry, Gravel, Unbound Gravel ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2022/how-to-enter-unbound-gravel-for-2022"
 ---
 
 So you think you want to try to take on Unbound Gravel, but you aren't sure how to get in?

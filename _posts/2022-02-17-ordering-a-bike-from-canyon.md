@@ -9,6 +9,7 @@ image: Content/2022/CanyonSupport/GrizlSunset-1.jpg
 categories: [ Online, Bike, Gravel ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2022/ordering-a-bike-from-canyon"
 ---
 For the past few years I've had dreams of buying a new bicycle. I went back and forth on what to get, where to get it, etc. Last year when Canyon announced the Grizl, I knew what I was going to buy.
 

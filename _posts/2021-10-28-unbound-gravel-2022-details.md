@@ -7,6 +7,7 @@ image: Content/2021/UnboundGravel2022-1.jpg
 categories: [ Industry, Gravel, Unbound Gravel ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2021/2022-unbound-gravel-details-october-2021"
 ---
 
 Details for Unbound Gravel 2022 are starting to be shared, I'll try to make it a point to update this post with info as it becomes available.

@@ -9,6 +9,7 @@ image: Content/2021/UnboundGravel-1.jpg
 categories: [ Industry, Gravel, Unbound Gravel ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2021/the-2021-unbound-gravel-weekend-review"
 ---
 While we were at Unbound Gravel we took almost 2k photos, not all of those live up to our standards, but here is a link to each of the four galleries of shots we took, these will open up in a new tab over on Chris' Photography site. Please stick around and read our writeup from the event too!
 

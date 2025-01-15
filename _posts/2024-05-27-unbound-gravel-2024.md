@@ -9,6 +9,7 @@ image: Content/2024/UnboundGravel-1.jpg
 categories: [ Bike, Gravel, '2024' ]
 featured: true
 author: chris
+redirect_to: "https://www.chrishammond.com/2024/what-to-look-for-at-unbound-gravel-2024"
 ---
 I won't be at Unbound Gravel this year (I've been on the bike all of 2 times since December 31st) but I am getting the itch to be in Emporia Kansas this week, it's Unbound time!
 

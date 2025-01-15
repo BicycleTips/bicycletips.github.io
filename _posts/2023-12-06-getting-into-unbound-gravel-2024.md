@@ -10,6 +10,7 @@ image: Content/2023/UnboundGravel/Unbound21-2.jpg
 categories: [ Bike, Gravel, Unbound, LifeTime ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2023/unbound-gravel-2024-your-guide-to-registration-options"
 ---
 So Unbound Gravel 2024 is coming up, with registrations opening already (depending on your status and distance). 
 
