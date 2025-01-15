@@ -7,6 +7,7 @@ image: Content/2020/UnboundStartingLine-1.jpg
 categories: [ Industry, Gravel, Dirty Kanza, Unbound Gravel  ]
 featured: false
 author: chris
+redirect_to: "https://www.chrishammond.com/2021/unbound-gravel-2021-deferral-registration"
 ---
 
 Today is November 16, 2020, why is that an important date? If you registered for the Dirty Kanza in 2020 and chose a deferral option, today is the day that deferral users have the ability to sign up for the 2021 race. 
