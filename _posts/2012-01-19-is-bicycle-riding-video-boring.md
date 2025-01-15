@@ -11,6 +11,7 @@ redirect_from:
     - "/tips/2012/01/is-bicycle-riding-video-boring"
     - "/tips/aid/21"
 author: chris
+redirect_to: "https://www.chrishammond.com/2012/is-bicycle-riding-video-boring"
 ---
 <img align="right" alt="Bicycle YouTube Video" src="/portals/18/Content/1-17-12-YouTube_705.jpg" style="float: right;" />One of the things that I've been trying to do while riding is figure out how to record my rides, for a couple of reasons. 1) To create cool creative videos. 2) To document events, who knows what can happen on the road, having video proof could help out some day. I think I can safely say that #2 is a far better, easier to attain, idea, than #1. And when you come up with a reason that justifies #2, you likely have something worth using for #1.
 
