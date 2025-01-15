@@ -3,6 +3,7 @@ layout: page
 title: About BicycleTips.com
 permalink: /about
 comments: false
+redirect_to: "https://www.chrishammond.com/about"
 ---
 So you want to know about BicycleTips.com? [You should read our story](/home/2011/07/getting-a-bike-to-ride-heres-our-story).
 
